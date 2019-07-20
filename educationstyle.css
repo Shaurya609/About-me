@@ -1,0 +1,28 @@
+.card-text{
+    font-size: 30px;
+}
+.card-title{
+    font-size: 40px;
+}
+.jumbotron{
+    background-image: url(img/educationbg.jpg);
+}
+body{
+    background-image: url(img/education_bg.jpg);
+}
+th{
+    font-size: 40px;
+}
+td{
+    font-size: 30px;
+}
+/*img{
+    width: 50%;
+    height: auto;
+}
+.carousel-item{
+    width: 50%;
+}*/
+.col-sm-6{
+    margin-bottom: 5%;
+}

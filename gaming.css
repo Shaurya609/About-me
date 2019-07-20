@@ -1,0 +1,24 @@
+.jumbotron{
+    background-image: url(img/gaming_jumbo.jpg);
+}
+h3{
+    border-bottom: 1px solid black;
+}
+body{
+    background-image: url(img/gaming_background.jpg)
+}
+.card > .row > .col-md-8 > .card-body > p{
+    font-size: 20px;
+}
+.card{
+    animation-name: video;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes video{
+    0%{border: 4px solid red;}
+    25%{border: 4px solid green;}
+    50%{border: 4px solid blue;}
+    75%{border: 4px solid yellow;}
+    100%{border: 4px solid white;}
+}

@@ -1,0 +1,20 @@
+body{
+    background-image: url(img/reading_background.jpg)
+}
+.jumbotron{
+    background-image: url(img/paper_crumpled_light_shadow.jpg)
+}
+.card-deck > .card > .card-body > h1{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+p{
+    font-size: 20px;
+}
+.card-text{
+    height: auto;
+}
+.card:hover{
+    transform: scale(1.1);
+    z-index: 1;
+}
