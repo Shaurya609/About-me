@@ -2,3 +2,6 @@
     transform: scale(1.05);
     z-index: 1;
 }
+.jumbotron{
+    background-image: url(img/music-bg.jpg)
+}

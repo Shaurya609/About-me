@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="img/musiclogo.png">
     <script src="music.js"> </script>
     <link rel="stylesheet" href="music.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -48,6 +49,15 @@
     <audio id="zhu">
         <source src="Music/Zhu - In The Morning.mp3">
     </audio>
+    <audio id="rezz">
+        <source src="Music/Rezz - Fourth Impact.mp3">
+    </audio>
+    <audio id="armin">
+        <source src="Music/01) Armin van Buuren feat. Miri Ben-Ari - Intense.mp3">
+    </audio>
+    <audio id="dead">
+        <source src="Music/Deadmau5 - Strobe [HD].mp3">
+    </audio>
     <h1 class="display-3 text-center bg-secondary text-white">Artists That I follow</h1>
     <div class="card-deck">
         <div class="card" onmouseover="playAudio('zhu')" onmouseout="StopSound('zhu')">
@@ -59,22 +69,71 @@
                 </p>
             </div>
         </div>
-        <div class="card">
-            <img class="card-img-top" src="">
+        <div class="card" onmouseover="playAudio('rezz')" onmouseout="StopSound('rezz')">
+            <img class="card-img-top img-fluid" src="img/rezz.jpg">
             <div class="card-body">
+                <h3 class="card-title text-center">Rezz</h3>
+                <p class="card-text">
+                    Hypnotic Trance
+                </p>
+            </div>
+        </div>
 
+        <div class="card" onmouseover="playAudio('dead')" onmouseout="StopSound('dead')">
+            <img class="card-img-top" src="img/deadmau5logo.jpg">
+            <div class="card-body">
+                <h3 class="card-title text-center">Deadmau5</h3>
+                <p class="card-text">
+                    Analog Trance
+                </p>
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="">
+            <img class="card-img-top img-fluid" src="">
             <div class="card-body">
+                <h3 class="card-title text-center"></h3>
+                <p class="card-text">
 
+                </p>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="card-deck">
+        <div class="card">
+            <img class="card-img-top img-fluid" src="">
+            <div class="card-body">
+                <h3 class="card-title text-center"></h3>
+                <p class="card-text">
+
+                </p>
+            </div>
+        </div>
+        <div class="card" onmouseover="playAudio('armin')" onmouseout="StopSound('armin')">
+            <img class="card-img-top img-fluid" src="img/Armin-van-Buuren-Logo-1.jpg">
+            <div class="card-body">
+                <h3 class="card-title text-center">Armin van Buuren</h3>
+                <p class="card-text">
+                    Trance
+                </p>
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="">
+            <img class="card-img-top img-fluid" src="">
             <div class="card-body">
+                <h3 class="card-title text-center"></h3>
+                <p class="card-text">
 
+                </p>
+            </div>
+        </div>
+        <div class="card">
+            <img class="card-img-top img-fluid" src="">
+            <div class="card-body">
+                <h3 class="card-title text-center"></h3>
+                <p class="card-text">
+
+                </p>
             </div>
         </div>
     </div>
