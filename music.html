@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <script src="music.js"> </script>
     <link rel="stylesheet" href="music.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -44,14 +45,15 @@
         <h1 class="display-3">Music</h1>
     </div>
     <br>
-    <audio>
+    <audio id="zhu">
         <source src="Music/Zhu - In The Morning.mp3">
     </audio>
     <h1 class="display-3 text-center bg-secondary text-white">Artists That I follow</h1>
     <div class="card-deck">
-        <div class="card" id="zhu">
+        <div class="card" onmouseover="playAudio('zhu')" onmouseout="StopSound('zhu')">
             <img class="card-img-top" src="img/zhu.jpg">
             <div class="card-body">
+                <h3 class="card-title text-center">Zhu</h3>
                 <p class="card-text">
                     Deep House
                 </p>
