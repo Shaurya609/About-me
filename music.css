@@ -1,7 +1,37 @@
-.card:hover{
+.card:hover {
     transform: scale(1.05);
     z-index: 1;
+    animation-name: video;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
 }
-.jumbotron{
+
+@keyframes video {
+    0% {
+        border: 8px solid red;
+    }
+
+    25% {
+        border: 8px solid green;
+    }
+
+    50% {
+        border: 8px solid blue;
+    }
+
+    75% {
+        border: 8px solid yellow;
+    }
+
+    100% {
+        border: 8px solid white;
+    }
+}
+
+.jumbotron {
     background-image: url(img/music-bg.jpg)
+}
+
+body {
+    background-image: url(img/musicbg.jpg)
 }

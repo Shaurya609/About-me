@@ -10,7 +10,7 @@ body{
 .card > .row > .col-md-8 > .card-body > p{
     font-size: 20px;
 }
-.card{
+/*.card{
     animation-name: video;
     animation-duration: 5s;
     animation-iteration-count: infinite;
@@ -21,4 +21,4 @@ body{
     50%{border: 4px solid blue;}
     75%{border: 4px solid yellow;}
     100%{border: 4px solid white;}
-}
+}*/
