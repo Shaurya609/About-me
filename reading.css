@@ -1,20 +1,25 @@
-body{
-    background-image: url(img/reading_background.jpg)
+body {
+    background-image: url(https://drive.google.com/uc?id=1q8HR96s9s89MtjbOSeUoKr-WPzaKbYWY)
 }
-.jumbotron{
-    background-image: url(img/paper_crumpled_light_shadow.jpg)
+
+.jumbotron {
+    background-image: url(https://drive.google.com/uc?id=1zUI6DAu0TdCdLwSMsvk3vpxZe2fSC8VE)
 }
-.card-deck > .card > .card-body > h1{
+
+.card-deck>.card>.card-body>h1 {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
 }
-p{
+
+p {
     font-size: 20px;
 }
-.card-text{
+
+.card-text {
     height: auto;
 }
-.card:hover{
+
+.card:hover {
     transform: scale(1.1);
     z-index: 1;
 }
