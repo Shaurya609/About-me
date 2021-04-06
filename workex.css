@@ -11,3 +11,7 @@ body{
 #FC > .card-body > p {
     font-size: 25px;
 }
+#CK{
+    background: linear-gradient(118deg,#205dee,#22b7ef);
+    background-size: cover;
+}
