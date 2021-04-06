@@ -6,4 +6,12 @@ body{
 }
 #FC{
     background-image: url(https://drive.google.com/uc?id=1EKJzwHTyeq0pEGVy1B1PIE2iug2bQftE);
+    background-size: cover;
+}
+#FC > .card-body > p {
+    font-size: 25px;
+}
+#CK{
+    background: linear-gradient(118deg,#205dee,#22b7ef);
+    background-size: cover;
 }
