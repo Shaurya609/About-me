@@ -8,7 +8,7 @@ body{
     background-image: url(https://drive.google.com/uc?id=1EKJzwHTyeq0pEGVy1B1PIE2iug2bQftE);
     background-size: cover;
 }
-#FC > .card-body > p {
+p {
     font-size: 25px;
 }
 #CK{
