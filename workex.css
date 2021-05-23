@@ -1,17 +1,39 @@
-.jumbotron{
+.jumbotron {
     background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-blue-simple-summary-of-work-poster-background-image_22360.jpg);
 }
-body{
+
+body {
     background-image: url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg);
 }
-#FC{
+
+#FC {
     background-image: url(https://drive.google.com/uc?id=1EKJzwHTyeq0pEGVy1B1PIE2iug2bQftE);
     background-size: cover;
 }
+
 p {
     font-size: 25px;
 }
-#CK{
-    background: linear-gradient(118deg,#205dee,#22b7ef);
+
+#CK {
+    background: linear-gradient(118deg, #205dee, #22b7ef);
     background-size: cover;
+}
+
+@media (min-width: 900px)  {
+    #FCimg{
+        width: 30%;
+    }
+    #CKimg{
+        width: 30%;
+    }
+}
+
+@media (max-width: 900px) {
+    #FCimg{
+        width: 50%;
+    }
+    #CKimg{
+        width: 50%;
+    }
 }
