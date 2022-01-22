@@ -1,24 +1,197 @@
-.jumbotron{
+.jumbotron {
     background-image: url(https://drive.google.com/uc?id=1jyg0XaVaUjy5vQSgxZ6VQZZJCm4ZpE33);
 }
-h3{
+
+h3 {
     border-bottom: 1px solid black;
 }
-body{
+
+body {
     background-image: url(https://drive.google.com/uc?id=1cilNrxZgahHU5J1EPtyKvXsPnfNRM1xR)
 }
-.card > .row > .col-md-8 > .card-body > p{
-    font-size: 20px;
+
+.card {
+    text-align: center;
 }
-/*.card{
-    animation-name: video;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
+
+.card-text {
+    font-size: 30px;
+    font-weight: 600;
 }
-@keyframes video{
-    0%{border: 4px solid red;}
-    25%{border: 4px solid green;}
-    50%{border: 4px solid blue;}
-    75%{border: 4px solid yellow;}
-    100%{border: 4px solid white;}
-}*/
+
+
+#PUBG {
+    background-image: url(https://drive.google.com/uc?id=1-apC_a_4cxMPC7slxMsHyzhL44YGum0v);
+    background-size: cover;
+}
+
+#PUBG:hover {
+    animation-name: pubg;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes pubg {
+    0% {
+        border: 5px solid cyan;
+    }
+
+    100% {
+        border: 5px solid cyan;
+        border-radius: 10%;
+    }
+}
+
+#eternal {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_5i2hXE4QRdZNXtyHHnNITP53N8gZ4cEnA&usqp=CAU);
+    background-size: cover;
+}
+
+#eternal:hover {
+    animation-name: doom;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes doom {
+    0% {
+        border: 5px solid rgb(143, 0, 0);
+    }
+
+    100% {
+        border: 5px solid rgb(143, 0, 0);
+        border-radius: 10%;
+    }
+}
+
+#daysgone {
+    background-image: url(https://www.mordeo.org/files/uploads/2021/04/Days-Gone-Game-Poster-4K-Ultra-HD-Mobile-Wallpaper.jpg);
+    background-size: cover;
+}
+
+#daysgone:hover {
+    animation-name: days;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes days {
+    0% {
+        border: 5px solid white;
+    }
+
+    100% {
+        border: 5px solid white;
+        border-radius: 10%;
+    }
+}
+
+#COD {
+    background-image: url(https://www.callofduty.com/content/dam/atvi/callofduty/mobile/home/characters/characters-ghost.jpg);
+    background-size: cover;
+}
+
+#COD:hover {
+    animation-name: callofduty;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes callofduty {
+    0% {
+        border: 5px solid #528A63;
+    }
+
+    100% {
+        border: 5px solid #528A63;
+        border-radius: 10%;
+    }
+}
+
+#battlefield {
+    background-image: url(https://media.contentapi.ea.com/content/dam/gin/images/2021/06/battlefield-2042-key-art.jpg.adapt.crop1x1.767w.jpg);
+    background-size: cover;
+}
+
+#battlefield:hover {
+    animation-name: battf;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes battf {
+    0% {
+        border: 5px solid black;
+    }
+
+    100% {
+        border: 5px solid black;
+        border-radius: 10%;
+    }
+}
+
+#deltaforce {
+    background-image: url(https://deltaforcegame.com/wp-content/uploads/2018/01/Setup-Delta-Force-Xtreme-2.jpg);
+    background-size: cover;
+}
+
+#deltaforce:hover {
+    animation-name: delta;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes delta {
+    0% {
+        border: 5px solid darkgreen;
+    }
+
+    100% {
+        border: 5px solid darkgreen;
+        border-radius: 10%;
+    }
+}
+
+#gta {
+    background-image: url(https://www.allkeyshop.com/blog/wp-content/uploads/gta-remastered-trilogy-featured.jpg);
+    background-size: cover;
+}
+
+#gta:hover {
+    animation-name: grandtheft;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes grandtheft {
+    0% {
+        border: 5px solid darkmagenta;
+    }
+
+    100% {
+        border: 5px solid darkmagenta;
+        border-radius: 10%;
+    }
+}
+
+#metro {
+    background-image: url(https://store-images.s-microsoft.com/image/apps.25703.13781561070841959.2a25a66a-3f42-4b00-998c-a5fa602b68a5.1f7c6873-e251-4c3d-8f52-f08c6dcc2d97?q=90&w=480&h=270);
+    background-size: cover;
+}
+
+#metro:hover {
+    animation-name: met;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes met {
+    0% {
+        border: 5px solid yellow;
+    }
+
+    100% {
+        border: 5px solid yellow;
+        border-radius: 10%;
+    }
+}
