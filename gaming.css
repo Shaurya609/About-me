@@ -195,3 +195,95 @@ body {
         border-radius: 10%;
     }
 }
+
+#batman {
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/f/fb/ArkhamKnight.png);
+    background-size: cover;
+}
+
+#batman:hover {
+    animation-name: bat;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes bat {
+    0% {
+        border: 5px solid #4bcefd;
+    }
+
+    100% {
+        border: 5px solid #4bcefd;
+        border-radius: 10%;
+    }
+}
+
+#cyberpunk {
+    background-image: url(https://www.cyberpunk.net/build/images/home3/screen-image-about-b-6e3102b1.jpg);
+    background-size: cover;
+}
+
+#cyberpunk:hover {
+    animation-name: cyber;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes cyber {
+    0% {
+        border: 5px solid rgb(255, 232, 29);
+    }
+
+    100% {
+        border: 5px solid rgb(255, 232, 29);
+        border-radius: 10%;
+    }
+}
+
+#dyinglight {
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZTkyMDc5M2EtZmRhNS00ODY0LTg2NDEtZGUzNGVhYmFiNWE3XkEyXkFqcGdeQXVyMTk5NDI0MA@@._V1_.jpg);
+    background-size: cover;
+}
+
+#dyinglight:hover {
+    animation-name: dying;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes dying {
+    0% {
+        border: 5px solid orangered;
+    }
+
+    100% {
+        border: 5px solid orangered;
+        border-radius: 10%;
+    }
+}
+
+#farcry {
+    background-image: url(https://i.guim.co.uk/img/media/f339b990a480adc8bda541c56dc4b977e157569b/120_0_1800_1080/master/1800.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=98fe40febd1e6eea1d11ecfdbdbc04f4);
+    background-size: cover;
+}
+
+#farcry:hover{
+    animation-name: far;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes far{
+    0% {
+        border: 5px solid brown;
+    }
+
+    100% {
+        border: 5px solid brown;
+        border-radius: 10%;
+    }
+}
+
+#fallout{
+    background-image: url();
+}
