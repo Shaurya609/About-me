@@ -197,7 +197,7 @@ body {
 }
 
 #batman {
-    background-image: url(https://upload.wikimedia.org/wikipedia/en/f/fb/ArkhamKnight.png);
+    background-image: url(https://static.wikia.nocookie.net/arkhamcity/images/f/fb/ArkhamKnight.png);
     background-size: cover;
 }
 
@@ -267,13 +267,13 @@ body {
     background-size: cover;
 }
 
-#farcry:hover{
+#farcry:hover {
     animation-name: far;
     animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
-@keyframes far{
+@keyframes far {
     0% {
         border: 5px solid brown;
     }
@@ -284,6 +284,29 @@ body {
     }
 }
 
-#fallout{
-    background-image: url();
+#fallout {
+    background-image: url(https://cdn.pocket-lint.com/r/s/970x/assets/images/135853-games-review-hands-on-fallout-4-first-impressions-review-image1-ibqmuv97zd.jpg);
+    background-size: cover;
+}
+
+#fallout:hover {
+    animation-name: fall;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fall {
+    0% {
+        border: 5px solid #477bb7;
+    }
+
+    100% {
+        border: 5px solid #477bb7;
+        border-radius: 10%;
+    }
+}
+
+#rdr2{
+    background-image: url(https://r1.ilikewallpaper.net/iphone-8-wallpapers/download/78683/red-dead-redemption-4k-landhscape-iphone-8-wallpaper-ilikewallpaper_com.jpg);
+    background-size: cover;
 }
