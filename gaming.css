@@ -310,3 +310,63 @@ body {
     background-image: url(https://r1.ilikewallpaper.net/iphone-8-wallpapers/download/78683/red-dead-redemption-4k-landhscape-iphone-8-wallpaper-ilikewallpaper_com.jpg);
     background-size: cover;
 }
+
+#rdr2:hover{
+    animation-name: reddead;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes reddead{
+    0%{
+        border: 5px solid red;
+    }
+
+    100%{
+        border: 5px solid red;
+        border-radius: 10%;
+    }
+}
+
+#nfs{
+    background-image: url(https://images.unsplash.com/photo-1619405399517-d7fce0f13302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmVlZCUyMGZvciUyMHNwZWVkfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+    background-size: cover;
+}
+
+#nfs:hover{
+    animation-name: need;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes need{
+    0%{
+        border: 5px solid #ab005a;
+    }
+
+    100%{
+        border: 5px solid #ab005a;
+        border-radius: 10%;
+    }
+}
+
+#fh4{
+    background-image: url(https://store-images.s-microsoft.com/image/apps.38727.13644046779257471.1e2d89dd-a800-4e95-8dae-3c4213950c11.a5f0adff-bf68-4415-bf74-457d991d3ce7);
+    background-size: cover;
+}
+
+#fh4:hover{
+    animation-name: fh;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fh{
+    0%{
+        border: 5px solid #fe3f5d;
+    }
+    100%{
+        border: 5px solid #fe3f5d;
+        border-radius: 10%;
+    }
+}
