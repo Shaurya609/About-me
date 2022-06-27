@@ -306,67 +306,220 @@ body {
     }
 }
 
-#rdr2{
+#rdr2 {
     background-image: url(https://r1.ilikewallpaper.net/iphone-8-wallpapers/download/78683/red-dead-redemption-4k-landhscape-iphone-8-wallpaper-ilikewallpaper_com.jpg);
     background-size: cover;
 }
 
-#rdr2:hover{
+#rdr2:hover {
     animation-name: reddead;
     animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
-@keyframes reddead{
-    0%{
+@keyframes reddead {
+    0% {
         border: 5px solid red;
     }
 
-    100%{
+    100% {
         border: 5px solid red;
         border-radius: 10%;
     }
 }
 
-#nfs{
+#nfs {
     background-image: url(https://images.unsplash.com/photo-1619405399517-d7fce0f13302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmVlZCUyMGZvciUyMHNwZWVkfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
     background-size: cover;
 }
 
-#nfs:hover{
+#nfs:hover {
     animation-name: need;
     animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
-@keyframes need{
-    0%{
+@keyframes need {
+    0% {
         border: 5px solid #ab005a;
     }
 
-    100%{
+    100% {
         border: 5px solid #ab005a;
         border-radius: 10%;
     }
 }
 
-#fh4{
+#fh4 {
     background-image: url(https://store-images.s-microsoft.com/image/apps.38727.13644046779257471.1e2d89dd-a800-4e95-8dae-3c4213950c11.a5f0adff-bf68-4415-bf74-457d991d3ce7);
     background-size: cover;
 }
 
-#fh4:hover{
+#fh4:hover {
     animation-name: fh;
     animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
-@keyframes fh{
-    0%{
+@keyframes fh {
+    0% {
         border: 5px solid #fe3f5d;
     }
-    100%{
+
+    100% {
         border: 5px solid #fe3f5d;
+        border-radius: 10%;
+    }
+}
+
+#titanfall {
+    background-image: url(https://image.api.playstation.com/cdn/UP0006/CUSA04027_00/w0dE1GRXBbdILiQd4eEw2zJrVk5fmJWM.png);
+    background-size: cover;
+}
+
+#titanfall:hover {
+    animation-name: tf;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes tf {
+    0% {
+        border: 5px solid #70e5f7;
+    }
+
+    100% {
+        border: 5px solid #70e5f7;
+        border-radius: 10%;
+    }
+}
+
+#bioshock {
+    background-image: url(https://m.media-amazon.com/images/M/MV5BNjBkZmI4NzktZTJmMC00NDNlLTk2M2ItNGEwODUxZGEwNmZiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg);
+    background-size: cover;
+}
+
+#bioshock:hover {
+    animation-name: bs;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes bs {
+    0% {
+        border: 5px solid #aaaba6;
+    }
+
+    100% {
+        border: 5px solid #aaaba6;
+        border-radius: 10%;
+    }
+}
+
+#sniper {
+    background-image: url(https://wallpapercave.com/wp/wp5707773.jpg);
+    background-size: cover;
+}
+
+#sniper:hover {
+    animation-name: se;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes se {
+    0% {
+        border: 5px solid #5f3c29;
+    }
+
+    100% {
+        border: 5px solid #5f3c29;
+        border-radius: 10%;
+    }
+}
+
+#justcause {
+    background-image: url(https://pbs.twimg.com/media/E6_BP7DVEAALZ_-?format=jpg&name=large);
+    background-size: cover;
+}
+
+#justcause:hover {
+    animation-name: js;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes js {
+    0% {
+        border: 5px solid #d21717;
+    }
+
+    100% {
+        border: 5px solid #d21717;
+        border-radius: 10%;
+    }
+}
+
+#wolfenstein {
+    background-image: url(https://cdn.mos.cms.futurecdn.net/Moa5WFoRv4FkVA5UcRZNmg.jpg);
+    background-size: cover;
+}
+
+#wolfenstein:hover {
+    animation-name: ws;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes ws {
+    0% {
+        border: 5px solid white;
+    }
+
+    100% {
+        border: 5px solid white;
+        border-radius: 10%;
+    }
+}
+
+#dbz {
+    background-image: url(https://img.betaseries.com/YvSM_mH8U1B4Iz8d2-5t5Zw61MQ=/600x900/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffonds%2Fposter%2F3440264042f307c0fa15dfa2decafe9d.jpg);
+    background-size: cover;
+}
+
+#dbz:hover{
+    animation-name: draba;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes draba{
+    0%{
+        border: 5px solid #fec615;
+    }
+    100%{
+        border: 5px solid #fec615;
+        border-radius: 10%;
+    }
+}
+
+#nsuns4{
+    background-image: url(https://image.api.playstation.com/cdn/UP0700/CUSA02412_00/2pfYJIXY2aTnMUe8eSET7YaxkOcUTbfm.png);
+    background-size: cover;
+}
+
+#nsuns4:hover{
+    animation-name: naruto;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes naruto{
+    0%{
+        border: 5px solid #b5a6d8;
+    }
+    100%{
+        border: 5px solid #b5a6d8;
         border-radius: 10%;
     }
 }
