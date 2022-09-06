@@ -523,3 +523,24 @@ body {
         border-radius: 10%;
     }
 }
+
+#mfs{
+    background-image: url(https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/b152e83ff597b1331cb62b2ee4c98dc9.png);
+    background-size: cover;
+}
+
+#mfs:hover{
+    animation-name: micro;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes micro{
+    0%{
+        border: 5px solid blue;
+    }
+    100%{
+        border: 5px solid blue;
+        border-radius: 10%;
+    }
+}
