@@ -4,14 +4,14 @@ body{
 .jumbotron{
     background-image: url(https://drive.google.com/uc?id=1sBW3BpjoH-zKda-Vo9aMwmApavdpqzsc);
 }
-.card:hover{
+/* .card:hover{
     border: 4px solid orange;
     transform: scale(1.05);
     z-index: 1;
     animation-name  : video;
     animation-duration:2.5s;
     animation-iteration-count: infinite;
-}
+} */
 
 @keyframes video{
     0% { border: 4px solid red;}
