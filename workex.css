@@ -21,6 +21,11 @@ p {
     background-size: cover;
 }
 
+#madhyam{
+    background-image: url(https://magazine.elitehavens.com/wp-content/uploads/2023/08/Anjuna-Beach.jpg);
+    background-size: cover;
+}
+
 @media (min-width: 900px)  {
     #FCimg{
         width: 30%;
