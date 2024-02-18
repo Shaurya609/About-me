@@ -9,7 +9,7 @@
 }
 
 .jumbotron {
-  background-image: url(https://drive.google.com/uc?id=1avzAfeATepMpRzP-6oKMqXnuv5C-oV_X);
+  background-image: url(Images/headbg.jpg);
 }
 
 h3 {
@@ -64,7 +64,7 @@ p {
 }
 
 body {
-  background-image: url(https://drive.google.com/uc?id=1AUojVAsyGcN5p27TadbCNAHXzN0YCL71);
+  background-image: url(Images/indexbg.jpg);
 }
 
 .display-4 {
@@ -76,11 +76,11 @@ body {
 }
 
 #reading {
-  background-image: url(https://drive.google.com/uc?id=1zUI6DAu0TdCdLwSMsvk3vpxZe2fSC8VE)
+  background-image: url(Images/paper_crumpled_light_shadow.jpg)
 }
 
 #gaming {
-  background-image: url(https://drive.google.com/uc?id=1cilNrxZgahHU5J1EPtyKvXsPnfNRM1xR)
+  background-image: url(Images/gaming_background.jpg)
 }
 
 #gaming>.card-body {
@@ -88,7 +88,7 @@ body {
 }
 
 #coding {
-  background-image: url(https://drive.google.com/uc?id=1ltyxLoDH0ikugXCwAd20fzcWs3wEYnre)
+  background-image: url(Images/background-skills.jpg)
 }
 
 #coding>.card-body {
@@ -100,11 +100,11 @@ body {
 }
 
 #designing {
-  background-image: url(https://drive.google.com/uc?id=1HwrIlgQuu7j9MUwX_YUzPOmRtb_hmGe7)
+  background-image: url(Images/design-bg2.jpg)
 }
 
 #music {
-  background-image: url(https://drive.google.com/uc?id=1HwrIlgQuu7j9MUwX_YUzPOmRtb_hmGe7)
+  background-image: url(Images/design-bg2.jpg)
 }
 
 #music>.card-body {
@@ -112,7 +112,7 @@ body {
 }
 
 #teaching {
-  background-image: url(https://drive.google.com/uc?id=1admIBaz02Gi2IvfsEEqqaGq01z9zblmS)
+  background-image: url(Images/teaching-bg.jpg)
 }
 
 .grid {
