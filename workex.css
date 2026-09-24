@@ -1,14 +1,14 @@
 .jumbotron {
-    background-image: url(Images/site-assets/experience-banner.jpg);
+    background-image: url(Images/optimized/experience-banner-0e7ce02d.webp);
     background-size: cover;
 }
 
 body {
-    background-image: url(Images/site-assets/experience-background.jpg);
+    background-image: url(Images/optimized/experience-background-976660ee.webp);
 }
 
 #FC {
-    background-image: url(Images/download.jpg);
+    background-image: url(Images/optimized/download-030ca75e.webp);
     background-size: cover;
 }
 
@@ -22,7 +22,7 @@ p {
 }
 
 #madhyam{
-    background-image: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), url(Images/site-assets/acasa-project.png);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), url(Images/optimized/acasa-project-8faf4aa1.webp);
     background-size: cover;
 }
 

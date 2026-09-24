@@ -2,19 +2,18 @@
 <html lang="en">
 
 <head>
-    <link rel="icon" type="image/png" href="Images/musiclogo.png">
-    <script src="music.js"> </script>
+    <link rel="icon" type="image/png" href="Images/optimized/musiclogo-9e5de41d.png">
+    <script defer src="music.js"> </script>
     <link rel="stylesheet" href="music.css">
-    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    <script defer src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
         integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
     </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    <script defer src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
     </script>
     <meta charset="UTF-8">
@@ -72,47 +71,47 @@
         <h1 class="display-3">Music</h1>
     </div>
     <br>
-    <audio id="zhu">
-        <source src="/Music/Zhu - In The Morning.mp3">
+    <audio preload="none" id="zhu">
+        <source src="Music/Zhu - In The Morning.mp3">
     </audio>
-    <audio id="rezz">
-        <source src="/Music/Rezz - Fourth Impact.mp3">
+    <audio preload="none" id="rezz">
+        <source src="Music/Rezz - Fourth Impact.mp3">
     </audio>
-    <audio id="armin">
-        <source src="/Music/01) Armin van Buuren feat. Miri Ben-Ari - Intense.mp3">
+    <audio preload="none" id="armin">
+        <source src="Music/01) Armin van Buuren feat. Miri Ben-Ari - Intense.mp3">
     </audio>
-    <audio id="dead">
-        <source src="/Music/Deadmau5 - Strobe [HD].mp3">
+    <audio preload="none" id="dead">
+        <source src="Music/Deadmau5 - Strobe [HD].mp3">
     </audio>
-    <audio id="kygo">
-        <source src="/Music/Kygo - Firestone Feat. Conrad.mp3">
+    <audio preload="none" id="kygo">
+        <source src="Music/Kygo - Firestone Feat. Conrad.mp3">
     </audio>
-    <audio id="marsh">
-        <source src="/Music/Marshmello - Alone.mp3">
+    <audio preload="none" id="marsh">
+        <source src="Music/Marshmello - Alone.mp3">
     </audio>
-    <audio id="vini">
-        <source src="/Music/Vini Vici - Ravers Army.mp3">
+    <audio preload="none" id="vini">
+        <source src="Music/Vini Vici - Ravers Army.mp3">
     </audio>
-    <audio id="Babalos">
-        <source src="/Music/Babalos - Snow crystal 185 bpm.mp3">
+    <audio preload="none" id="Babalos">
+        <source src="Music/Babalos - Snow crystal 185 bpm.mp3">
     </audio>
-    <audio id="undercover">
-        <source src="/Music/UnderCover - Imaginary Friends.mp3">
+    <audio preload="none" id="undercover">
+        <source src="Music/UnderCover - Imaginary Friends.mp3">
     </audio>
-    <audio id="russ">
-        <source src="/Music/Russ - Pull The Trigger (Official Video).mp3">
+    <audio preload="none" id="russ">
+        <source src="Music/Russ - Pull The Trigger (Official Video).mp3">
     </audio>
-    <audio id="daft">
-        <source src="/Music/Daft Punk (feat. Julian Casablancas) - Instant Crush [Random Access Memories].mp3">
+    <audio preload="none" id="daft">
+        <source src="Music/Daft Punk (feat. Julian Casablancas) - Instant Crush [Random Access Memories].mp3">
     </audio>
-    <audio id="martin">
-        <source src="/Music/Martin Garrix - Animals (Original Mix).mp3">
+    <audio preload="none" id="martin">
+        <source src="Music/Martin Garrix - Animals (Original Mix).mp3">
     </audio>
     <h1 class="display-3 text-center bg-secondary text-white">Artists That I follow</h1>
     <br>
     <div class="card-deck">
-        <div class="card" onmouseover="playAudio('zhu')" onmouseout="StopSound('zhu')">
-            <img class="card-img-top" src="Images/zhu.jpg">
+        <div class="card" onmouseenter="playAudio('zhu')" onmouseleave="StopSound('zhu')">
+            <img class="card-img-top" src="Images/optimized/zhu-2d6219c7.webp" decoding="async" width="1000" height="1000">
             <div class="card-body">
                 <h3 class="card-title text-center">Zhu</h3>
                 <p class="card-text text-center">
@@ -120,8 +119,8 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('rezz')" onmouseout="StopSound('rezz')">
-            <img class="card-img-top img-fluid" src="Images/rezz.jpg">
+        <div class="card" onmouseenter="playAudio('rezz')" onmouseleave="StopSound('rezz')">
+            <img class="card-img-top img-fluid" src="Images/optimized/rezz-2c314c89.webp" decoding="async" width="400" height="400">
             <div class="card-body">
                 <h3 class="card-title text-center">Rezz</h3>
                 <p class="card-text text-center">
@@ -129,8 +128,8 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('dead')" onmouseout="StopSound('dead')">
-            <img class="card-img-top" src="Images/deadmau5logo.jpg">
+        <div class="card" onmouseenter="playAudio('dead')" onmouseleave="StopSound('dead')">
+            <img class="card-img-top" src="Images/optimized/deadmau5logo-3e2f4d39.webp" decoding="async" loading="lazy" width="300" height="300">
             <div class="card-body">
                 <h3 class="card-title text-center">Deadmau5</h3>
                 <p class="card-text text-center">
@@ -138,8 +137,8 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('kygo')" onmouseout="StopSound('kygo')">
-            <img class="card-img-top img-fluid" src="Images/kygo.png">
+        <div class="card" onmouseenter="playAudio('kygo')" onmouseleave="StopSound('kygo')">
+            <img class="card-img-top img-fluid" src="Images/optimized/kygo-28c4bee4.webp" decoding="async" loading="lazy" width="256" height="256">
             <div class="card-body">
                 <h3 class="card-title text-center">Kygo</h3>
                 <p class="card-text text-center">
@@ -150,8 +149,8 @@
     </div>
     <br>
     <div class="card-deck">
-        <div class="card" onmouseover="playAudio('vini')" onmouseout="StopSound('vini')">
-            <img class="card-img-top img-fluid" src="Images/vini%20vici.png">
+        <div class="card" onmouseenter="playAudio('vini')" onmouseleave="StopSound('vini')">
+            <img class="card-img-top img-fluid" src="Images/optimized/vini-vici-6afc8e79.webp" decoding="async" loading="lazy" width="326" height="279">
             <div class="card-body">
                 <h3 class="card-title text-center">Vini Vici</h3>
                 <p class="card-text text-center">
@@ -159,8 +158,8 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('marsh')" onmouseout="StopSound('marsh')">
-            <img class="card-img-top img-fluid" src="Images/marsh.jpg">
+        <div class="card" onmouseenter="playAudio('marsh')" onmouseleave="StopSound('marsh')">
+            <img class="card-img-top img-fluid" src="Images/optimized/marsh-bac3e710.webp" decoding="async" loading="lazy" width="300" height="250">
             <div class="card-body">
                 <h3 class="card-title text-center">Marshmello</h3>
                 <p class="card-text text-center">
@@ -168,9 +167,9 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('armin')" onmouseout="StopSound('armin')">
+        <div class="card" onmouseenter="playAudio('armin')" onmouseleave="StopSound('armin')">
             <img class="card-img-top img-fluid"
-                src="Images/site-assets/armin-van-buuren.png">
+                src="Images/optimized/armin-van-buuren-40339157.webp" decoding="async" loading="lazy" width="2400" height="2400">
             <div class="card-body">
                 <h3 class="card-title text-center">Armin van Buuren</h3>
                 <p class="card-text text-center">
@@ -178,8 +177,8 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('Babalos')" onmouseout="StopSound('Babalos')">
-            <img class="card-img-top img-fluid" src="Images/site-assets/babalos.jpg">
+        <div class="card" onmouseenter="playAudio('Babalos')" onmouseleave="StopSound('Babalos')">
+            <img class="card-img-top img-fluid" src="Images/optimized/babalos-a23986c3.webp" decoding="async" loading="lazy" width="640" height="640">
             <div class="card-body">
                 <h3 class="card-title text-center">Babalos</h3>
                 <p class="card-text text-center">
@@ -190,8 +189,8 @@
     </div>
     <br>
     <div class="card-deck">
-        <div class="card" onmouseover="playAudio('daft')" onmouseout="StopSound('daft')">
-            <img class="card-img-top img-fluid" src="Images/site-assets/daft-punk.jpg">
+        <div class="card" onmouseenter="playAudio('daft')" onmouseleave="StopSound('daft')">
+            <img class="card-img-top img-fluid" src="Images/optimized/daft-punk-4b2abee7.webp" decoding="async" loading="lazy" width="640" height="640">
             <div class="card-body">
                 <h3 class="card-title text-center">Daft Punk</h3>
                 <p class="card-text text-center">
@@ -199,9 +198,9 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('russ')" onmouseout="StopSound('russ')">
+        <div class="card" onmouseenter="playAudio('russ')" onmouseleave="StopSound('russ')">
             <img class="card-img-top img-fluid mx-auto d-block"
-                src="Images/site-assets/russ.jpg" style="width: 80%;">
+                src="Images/optimized/russ-a68909f0.webp" style="width: 80%;" decoding="async" loading="lazy" width="750" height="1000">
             <div class="card-body">
                 <h3 class="card-title text-center">Russ</h3>
                 <p class="card-text text-center">
@@ -209,8 +208,8 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('undercover')" onmouseout="StopSound('undercover')">
-            <img class="card-img-top img-fluid" src="Images/undercover.jpg">
+        <div class="card" onmouseenter="playAudio('undercover')" onmouseleave="StopSound('undercover')">
+            <img class="card-img-top img-fluid" src="Images/optimized/undercover-1d3e4e2b.webp" decoding="async" loading="lazy" width="749" height="749">
             <div class="card-body">
                 <h3 class="card-title text-center">UnderCover</h3>
                 <p class="card-text text-center">
@@ -218,9 +217,9 @@
                 </p>
             </div>
         </div>
-        <div class="card" onmouseover="playAudio('martin')" onmouseout="StopSound('martin')">
+        <div class="card" onmouseenter="playAudio('martin')" onmouseleave="StopSound('martin')">
             <img class="card-img-top img-fluid"
-                src="Images/site-assets/martin-garrix.jpg">
+                src="Images/optimized/martin-garrix-39326c15.webp" decoding="async" loading="lazy" width="900" height="900">
             <div class="card-body">
                 <h3 class="card-title text-center">Martin Garrix</h3>
                 <p class="card-text text-center">
@@ -240,29 +239,29 @@
           <ul class="navbar-nav">
             <li class="nav-item">
               <a target="_blank" class="nav-link" href="https://www.facebook.com/shaurya.mathur.71"><img
-                  src="Images/facebook.png" height="30px"
-                  width="40px" />Facebook</a>
+                  src="Images/optimized/facebook-3f4c5b7f.webp" height="30px"
+                  width="40px" decoding="async" loading="lazy">Facebook</a>
             </li>
             <li class="nav-item">
               <a target="_blank" class="nav-link" href="https://www.instagram.com/shaurya007/"><img
-                  src="Images/instagram.png" height="30px" width="40px"
-                  style="padding-right: 10px;">Instagram</a>
+                  src="Images/optimized/instagram-8c0e5a61.webp" height="30px" width="40px"
+                  style="padding-right: 10px;" decoding="async" loading="lazy">Instagram</a>
             </li>
             <li class="nav-item">
               <a target="_blank" class="nav-link"
                 href="https://www.youtube.com/channel/UC4-tBPLvJviGeZUPGDt_etQ?view_as=subscriber"><img
                   src="Images/youtube.png" height="30px" width="40px;"
-                  style="padding-right: 5px;" />Youtube</a>
+                  style="padding-right: 5px;" decoding="async" loading="lazy">Youtube</a>
             </li>
             <li class="nav-item">
               <a target="_blank" class="nav-link" href="https://steamcommunity.com/id/shaurya609/"><img
-                  src="Images/steam.png" height="30px" width="30px"
-                  style="padding-right: 5px;" />Steam</a>
+                  src="Images/optimized/steam-3310d45a.webp" height="30px" width="30px"
+                  style="padding-right: 5px;" decoding="async" loading="lazy">Steam</a>
             </li>
             <li class="nav-item">
               <a target="_blank" class="nav-link" href="mailto:shaurya609@gmail.com"><img
                   src="Images/site-assets/mail-icon.svg" height="30px" width="40px"
-                  style="padding-right: 5px;" />Mail</a>
+                  style="padding-right: 5px;" decoding="async" loading="lazy">Mail</a>
             </li>
           </ul>
         </div>

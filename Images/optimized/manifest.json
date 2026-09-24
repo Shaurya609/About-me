@@ -1,0 +1,1462 @@
+[
+  {
+    "source": "Images/Poster-01.jpg",
+    "output": "Images/optimized/poster-01-8e0b2d5d.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1131,
+    "original_bytes": 2822776,
+    "optimized_bytes": 100436
+  },
+  {
+    "source": "Images/photoshop.png",
+    "output": "Images/optimized/photoshop-61bf2978.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1574,
+    "original_bytes": 113535,
+    "optimized_bytes": 16556
+  },
+  {
+    "source": "Images/empty cart2-01.jpg",
+    "output": "Images/optimized/empty-cart2-01-6cf81c56.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1280,
+    "height": 800,
+    "original_bytes": 791533,
+    "optimized_bytes": 28624
+  },
+  {
+    "source": "Images/internships-02.jpg",
+    "output": "Images/optimized/internships-02-5216645c.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 843,
+    "height": 596,
+    "original_bytes": 915362,
+    "optimized_bytes": 53378
+  },
+  {
+    "source": "Images/policy-01.jpg",
+    "output": "Images/optimized/policy-01-fd94b257.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1191,
+    "height": 842,
+    "original_bytes": 1055108,
+    "optimized_bytes": 50146
+  },
+  {
+    "source": "Images/teachersday16.jpg",
+    "output": "Images/optimized/teachersday16-3620670d.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1085,
+    "original_bytes": 4243400,
+    "optimized_bytes": 92644
+  },
+  {
+    "source": "Images/biziboy_logo-01.jpg",
+    "output": "Images/optimized/biziboy-logo-01-3f91a17b.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1236,
+    "original_bytes": 3690979,
+    "optimized_bytes": 46984
+  },
+  {
+    "source": "Images/facebook.png",
+    "output": "Images/optimized/facebook-3f4c5b7f.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1000,
+    "height": 750,
+    "original_bytes": 10434,
+    "optimized_bytes": 4492
+  },
+  {
+    "source": "Images/instagram.png",
+    "output": "Images/optimized/instagram-8c0e5a61.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1024,
+    "height": 1023,
+    "original_bytes": 131360,
+    "optimized_bytes": 38930
+  },
+  {
+    "source": "Images/steam.png",
+    "output": "Images/optimized/steam-3310d45a.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1024,
+    "height": 1024,
+    "original_bytes": 67547,
+    "optimized_bytes": 28684
+  },
+  {
+    "source": "Images/site-assets/design-icon.png",
+    "output": "Images/optimized/design-icon-d0e61b37.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 32,
+    "height": 32,
+    "original_bytes": 25195,
+    "optimized_bytes": 2642
+  },
+  {
+    "source": "Images/afgji.jpg",
+    "output": "Images/optimized/afgji-9ac02305.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 660,
+    "height": 495,
+    "original_bytes": 290029,
+    "optimized_bytes": 77850
+  },
+  {
+    "source": "Images/gtbit.jpg",
+    "output": "Images/optimized/gtbit-e1ec6b5c.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 900,
+    "height": 501,
+    "original_bytes": 76750,
+    "optimized_bytes": 51802
+  },
+  {
+    "source": "Images/certificate1.jpg",
+    "output": "Images/optimized/certificate1-4145c312.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1288,
+    "original_bytes": 787200,
+    "optimized_bytes": 201048
+  },
+  {
+    "source": "Images/certificate2.jpg",
+    "output": "Images/optimized/certificate2-a24c85c3.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1225,
+    "original_bytes": 557410,
+    "optimized_bytes": 129292
+  },
+  {
+    "source": "Images/certificate5.jpg",
+    "output": "Images/optimized/certificate5-624051c3.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1187,
+    "original_bytes": 610569,
+    "optimized_bytes": 139962
+  },
+  {
+    "source": "Images/certificate6.jpg",
+    "output": "Images/optimized/certificate6-c5f71e16.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1233,
+    "original_bytes": 618343,
+    "optimized_bytes": 146238
+  },
+  {
+    "source": "Images/certificate3.jpg",
+    "output": "Images/optimized/certificate3-812d181e.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1035,
+    "height": 1600,
+    "original_bytes": 360655,
+    "optimized_bytes": 157248
+  },
+  {
+    "source": "Images/certificate4.jpg",
+    "output": "Images/optimized/certificate4-d2f19369.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1034,
+    "height": 1600,
+    "original_bytes": 361858,
+    "optimized_bytes": 174242
+  },
+  {
+    "source": "Images/certificate8.jpg",
+    "output": "Images/optimized/certificate8-62658542.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1163,
+    "height": 1600,
+    "original_bytes": 335675,
+    "optimized_bytes": 131692
+  },
+  {
+    "source": "Images/education.png",
+    "output": "Images/optimized/education-edcc6582.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 32,
+    "height": 32,
+    "original_bytes": 32482,
+    "optimized_bytes": 2032
+  },
+  {
+    "source": "Images/site-assets/pubg-logo.png",
+    "output": "Images/optimized/pubg-logo-00a5c968.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 452,
+    "height": 452,
+    "original_bytes": 5589,
+    "optimized_bytes": 1842
+  },
+  {
+    "source": "Images/site-assets/doom-eternal-logo.png",
+    "output": "Images/optimized/doom-eternal-logo-1ad297cb.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 860,
+    "height": 615,
+    "original_bytes": 495734,
+    "optimized_bytes": 65778
+  },
+  {
+    "source": "Images/site-assets/days-gone.jpg",
+    "output": "Images/optimized/days-gone-e757fefa.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 18193,
+    "optimized_bytes": 8424
+  },
+  {
+    "source": "Images/site-assets/battlefield-logo.png",
+    "output": "Images/optimized/battlefield-logo-51fee91b.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 900,
+    "original_bytes": 334343,
+    "optimized_bytes": 50122
+  },
+  {
+    "source": "Images/site-assets/delta-force-icon.png",
+    "output": "Images/optimized/delta-force-icon-2b06f197.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 256,
+    "height": 256,
+    "original_bytes": 33369,
+    "optimized_bytes": 15224
+  },
+  {
+    "source": "Images/site-assets/metro-exodus.jpg",
+    "output": "Images/optimized/metro-exodus-88cb2fd9.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 50308,
+    "optimized_bytes": 35640
+  },
+  {
+    "source": "Images/site-assets/batman-arkham-knight-logo.png",
+    "output": "Images/optimized/batman-arkham-knight-logo-35fe8077.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 669,
+    "height": 367,
+    "original_bytes": 216356,
+    "optimized_bytes": 41148
+  },
+  {
+    "source": "Images/site-assets/dying-light.jpg",
+    "output": "Images/optimized/dying-light-aaae6dab.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 43436,
+    "optimized_bytes": 26042
+  },
+  {
+    "source": "Images/site-assets/far-cry-logo.png",
+    "output": "Images/optimized/far-cry-logo-ffbf2e34.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 783,
+    "height": 279,
+    "original_bytes": 287714,
+    "optimized_bytes": 57974
+  },
+  {
+    "source": "Images/site-assets/fallout-logo.png",
+    "output": "Images/optimized/fallout-logo-2bf495be.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 726,
+    "original_bytes": 1772410,
+    "optimized_bytes": 239968
+  },
+  {
+    "source": "Images/site-assets/red-dead-redemption-logo.png",
+    "output": "Images/optimized/red-dead-redemption-logo-570dfd32.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1366,
+    "height": 496,
+    "original_bytes": 169228,
+    "optimized_bytes": 57954
+  },
+  {
+    "source": "Images/site-assets/titanfall-2.jpg",
+    "output": "Images/optimized/titanfall-2-d4bc3729.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 58017,
+    "optimized_bytes": 33464
+  },
+  {
+    "source": "Images/site-assets/bioshock.jpg",
+    "output": "Images/optimized/bioshock-84b3b675.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 27814,
+    "optimized_bytes": 20806
+  },
+  {
+    "source": "Images/site-assets/sniper-elite-logo.png",
+    "output": "Images/optimized/sniper-elite-logo-9267b4dd.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1000,
+    "height": 500,
+    "original_bytes": 40871,
+    "optimized_bytes": 26990
+  },
+  {
+    "source": "Images/site-assets/just-cause-3.jpg",
+    "output": "Images/optimized/just-cause-3-cf664c19.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 65979,
+    "optimized_bytes": 33992
+  },
+  {
+    "source": "Images/site-assets/wolfenstein-logo.png",
+    "output": "Images/optimized/wolfenstein-logo-9c047ffc.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 600,
+    "height": 600,
+    "original_bytes": 7700,
+    "optimized_bytes": 6936
+  },
+  {
+    "source": "Images/site-assets/dragon-ball-logo.png",
+    "output": "Images/optimized/dragon-ball-logo-3a471c41.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1076,
+    "original_bytes": 318688,
+    "optimized_bytes": 93074
+  },
+  {
+    "source": "Images/site-assets/naruto-storm-4.jpg",
+    "output": "Images/optimized/naruto-storm-4-3d782f01.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 63719,
+    "optimized_bytes": 33548
+  },
+  {
+    "source": "Images/site-assets/flight-simulator.jpg",
+    "output": "Images/optimized/flight-simulator-857c9fbb.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 48644,
+    "optimized_bytes": 24694
+  },
+  {
+    "source": "Images/site-assets/gaming-icon.png",
+    "output": "Images/optimized/gaming-icon-d4b37b14.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 32,
+    "height": 32,
+    "original_bytes": 55881,
+    "optimized_bytes": 2609
+  },
+  {
+    "source": "Images/tin.png",
+    "output": "Images/optimized/tin-044d8e55.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1331,
+    "height": 939,
+    "original_bytes": 102933,
+    "optimized_bytes": 48734
+  },
+  {
+    "source": "Images/task2.jpg",
+    "output": "Images/optimized/task2-4d9f0cdf.webp",
+    "max_edge": 400,
+    "role": "image",
+    "width": 400,
+    "height": 400,
+    "original_bytes": 56781224,
+    "optimized_bytes": 35622
+  },
+  {
+    "source": "Images/channel icon.png",
+    "output": "Images/optimized/channel-icon-f0d4e91e.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 800,
+    "height": 800,
+    "original_bytes": 367032,
+    "optimized_bytes": 39606
+  },
+  {
+    "source": "Images/full_piz_ing.jpg",
+    "output": "Images/optimized/full-piz-ing-7c45bc55.webp",
+    "max_edge": 400,
+    "role": "image",
+    "width": 400,
+    "height": 370,
+    "original_bytes": 4493838,
+    "optimized_bytes": 45258
+  },
+  {
+    "source": "Images/musiclogo.png",
+    "output": "Images/optimized/musiclogo-1a8e1ed5.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 496,
+    "height": 636,
+    "original_bytes": 47040,
+    "optimized_bytes": 24726
+  },
+  {
+    "source": "Images/cpp_logo.png",
+    "output": "Images/optimized/cpp-logo-597a300c.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 918,
+    "height": 1032,
+    "original_bytes": 46138,
+    "optimized_bytes": 20286
+  },
+  {
+    "source": "Images/python.png",
+    "output": "Images/optimized/python-cf83dc4e.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1024,
+    "height": 1024,
+    "original_bytes": 52166,
+    "optimized_bytes": 20466
+  },
+  {
+    "source": "Images/html5.png",
+    "output": "Images/optimized/html5-490c3148.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 720,
+    "height": 720,
+    "original_bytes": 53895,
+    "optimized_bytes": 20368
+  },
+  {
+    "source": "Images/css3.png",
+    "output": "Images/optimized/css3-d7de42e4.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 720,
+    "height": 720,
+    "original_bytes": 56066,
+    "optimized_bytes": 19920
+  },
+  {
+    "source": "Images/bootstrap.png",
+    "output": "Images/optimized/bootstrap-a49b65ec.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 512,
+    "height": 512,
+    "original_bytes": 41210,
+    "optimized_bytes": 14222
+  },
+  {
+    "source": "Images/java.png",
+    "output": "Images/optimized/java-03c4c35e.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 800,
+    "height": 800,
+    "original_bytes": 124914,
+    "optimized_bytes": 24550
+  },
+  {
+    "source": "Images/php.png",
+    "output": "Images/optimized/php-640c38c5.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 400,
+    "height": 399,
+    "original_bytes": 17700,
+    "optimized_bytes": 7534
+  },
+  {
+    "source": "Images/IMG_1683.JPG",
+    "output": "Images/optimized/img-1683-e4a1df66.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1067,
+    "original_bytes": 5444143,
+    "optimized_bytes": 45230
+  },
+  {
+    "source": "Images/channel icon.png",
+    "output": "Images/optimized/channel-icon-2528a059.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 32,
+    "height": 32,
+    "original_bytes": 367032,
+    "optimized_bytes": 2583
+  },
+  {
+    "source": "Images/zhu.jpg",
+    "output": "Images/optimized/zhu-2d6219c7.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1000,
+    "height": 1000,
+    "original_bytes": 20566,
+    "optimized_bytes": 9676
+  },
+  {
+    "source": "Images/rezz.jpg",
+    "output": "Images/optimized/rezz-2c314c89.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 400,
+    "height": 400,
+    "original_bytes": 14491,
+    "optimized_bytes": 11732
+  },
+  {
+    "source": "Images/deadmau5logo.jpg",
+    "output": "Images/optimized/deadmau5logo-3e2f4d39.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 300,
+    "height": 300,
+    "original_bytes": 7678,
+    "optimized_bytes": 3732
+  },
+  {
+    "source": "Images/kygo.png",
+    "output": "Images/optimized/kygo-28c4bee4.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 256,
+    "height": 256,
+    "original_bytes": 15829,
+    "optimized_bytes": 3882
+  },
+  {
+    "source": "Images/vini vici.png",
+    "output": "Images/optimized/vini-vici-6afc8e79.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 326,
+    "height": 279,
+    "original_bytes": 14166,
+    "optimized_bytes": 5806
+  },
+  {
+    "source": "Images/marsh.jpg",
+    "output": "Images/optimized/marsh-bac3e710.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 300,
+    "height": 250,
+    "original_bytes": 10783,
+    "optimized_bytes": 6020
+  },
+  {
+    "source": "Images/site-assets/armin-van-buuren.png",
+    "output": "Images/optimized/armin-van-buuren-40339157.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1600,
+    "original_bytes": 123500,
+    "optimized_bytes": 19932
+  },
+  {
+    "source": "Images/site-assets/babalos.jpg",
+    "output": "Images/optimized/babalos-a23986c3.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 640,
+    "height": 640,
+    "original_bytes": 85040,
+    "optimized_bytes": 39332
+  },
+  {
+    "source": "Images/site-assets/daft-punk.jpg",
+    "output": "Images/optimized/daft-punk-4b2abee7.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 640,
+    "height": 640,
+    "original_bytes": 102098,
+    "optimized_bytes": 48178
+  },
+  {
+    "source": "Images/site-assets/russ.jpg",
+    "output": "Images/optimized/russ-a68909f0.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 750,
+    "height": 1000,
+    "original_bytes": 25223,
+    "optimized_bytes": 9382
+  },
+  {
+    "source": "Images/undercover.jpg",
+    "output": "Images/optimized/undercover-1d3e4e2b.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 749,
+    "height": 749,
+    "original_bytes": 23022,
+    "optimized_bytes": 17230
+  },
+  {
+    "source": "Images/site-assets/martin-garrix.jpg",
+    "output": "Images/optimized/martin-garrix-39326c15.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 900,
+    "height": 900,
+    "original_bytes": 61645,
+    "optimized_bytes": 24866
+  },
+  {
+    "source": "Images/musiclogo.png",
+    "output": "Images/optimized/musiclogo-9e5de41d.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 25,
+    "height": 32,
+    "original_bytes": 47040,
+    "optimized_bytes": 1989
+  },
+  {
+    "source": "Images/Deathly_Hallows_Sign.svg.png",
+    "output": "Images/optimized/deathly-hallows-sign-svg-795ddc29.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 488,
+    "height": 424,
+    "original_bytes": 34920,
+    "optimized_bytes": 10588
+  },
+  {
+    "source": "Images/Percy_Jackson.png",
+    "output": "Images/optimized/percy-jackson-6c4c69c4.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1097,
+    "height": 1113,
+    "original_bytes": 54502,
+    "optimized_bytes": 24970
+  },
+  {
+    "source": "Images/heroes-olympus-logo.jpg",
+    "output": "Images/optimized/heroes-olympus-logo-b93d4ffb.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 399,
+    "height": 195,
+    "original_bytes": 17310,
+    "optimized_bytes": 10444
+  },
+  {
+    "source": "Images/Magnus Chase.jpg",
+    "output": "Images/optimized/magnus-chase-11573da2.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 236,
+    "height": 236,
+    "original_bytes": 12399,
+    "optimized_bytes": 10434
+  },
+  {
+    "source": "Images/kane-chronicles.png",
+    "output": "Images/optimized/kane-chronicles-4d9d2b8f.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 807,
+    "height": 222,
+    "original_bytes": 295122,
+    "optimized_bytes": 53366
+  },
+  {
+    "source": "Images/The_Trials_of_Apollo_logo.png",
+    "output": "Images/optimized/the-trials-of-apollo-logo-8572ebeb.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 189,
+    "height": 176,
+    "original_bytes": 63300,
+    "optimized_bytes": 8976
+  },
+  {
+    "source": "Images/Sherlock.jpg",
+    "output": "Images/optimized/sherlock-c84f3447.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 214,
+    "height": 200,
+    "original_bytes": 13250,
+    "optimized_bytes": 5102
+  },
+  {
+    "source": "Images/divergent.jpg",
+    "output": "Images/optimized/divergent-f8948f27.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 486,
+    "height": 490,
+    "original_bytes": 99309,
+    "optimized_bytes": 33220
+  },
+  {
+    "source": "Images/The-Fault-In-Our-Stars-logo.png",
+    "output": "Images/optimized/the-fault-in-our-stars-logo-cdf3520b.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 625,
+    "height": 317,
+    "original_bytes": 85279,
+    "optimized_bytes": 20632
+  },
+  {
+    "source": "Images/gone.jpg",
+    "output": "Images/optimized/gone-85c2d3c2.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 303,
+    "height": 316,
+    "original_bytes": 32329,
+    "optimized_bytes": 3548
+  },
+  {
+    "source": "Images/The_Chronicles_of_Narnia_Logo.png",
+    "output": "Images/optimized/the-chronicles-of-narnia-logo-33e0b5b9.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 800,
+    "height": 238,
+    "original_bytes": 195229,
+    "optimized_bytes": 58440
+  },
+  {
+    "source": "Images/site-assets/tintin.jpg",
+    "output": "Images/optimized/tintin-4c89bf4a.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 236,
+    "height": 168,
+    "original_bytes": 7309,
+    "optimized_bytes": 5116
+  },
+  {
+    "source": "Images/asterix.jpg",
+    "output": "Images/optimized/asterix-60cf811e.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 736,
+    "height": 969,
+    "original_bytes": 111438,
+    "optimized_bytes": 87420
+  },
+  {
+    "source": "Images/TWD.jpg",
+    "output": "Images/optimized/twd-d10ad600.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 629,
+    "height": 270,
+    "original_bytes": 65941,
+    "optimized_bytes": 17968
+  },
+  {
+    "source": "Images/OP.jpg",
+    "output": "Images/optimized/op-b2260bc3.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 241,
+    "height": 209,
+    "original_bytes": 9886,
+    "optimized_bytes": 8136
+  },
+  {
+    "source": "Images/Naruto.jpg",
+    "output": "Images/optimized/naruto-c0441f96.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 225,
+    "height": 225,
+    "original_bytes": 6603,
+    "optimized_bytes": 4108
+  },
+  {
+    "source": "Images/bleach.png",
+    "output": "Images/optimized/bleach-bddca344.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 600,
+    "height": 502,
+    "original_bytes": 30592,
+    "optimized_bytes": 9390
+  },
+  {
+    "source": "Images/ft.png",
+    "output": "Images/optimized/ft-7c8d4a94.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 945,
+    "height": 343,
+    "original_bytes": 93012,
+    "optimized_bytes": 37008
+  },
+  {
+    "source": "Images/fma.png",
+    "output": "Images/optimized/fma-fd10f42d.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 370,
+    "height": 615,
+    "original_bytes": 7624,
+    "optimized_bytes": 6120
+  },
+  {
+    "source": "Images/hxh.jpg",
+    "output": "Images/optimized/hxh-bf7ff655.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 800,
+    "height": 516,
+    "original_bytes": 37641,
+    "optimized_bytes": 10006
+  },
+  {
+    "source": "Images/onepunchman.jpg",
+    "output": "Images/optimized/onepunchman-0d3f2c0e.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 630,
+    "height": 630,
+    "original_bytes": 30239,
+    "optimized_bytes": 19390
+  },
+  {
+    "source": "Images/tokyoghoul.png",
+    "output": "Images/optimized/tokyoghoul-921724c0.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 338,
+    "height": 340,
+    "original_bytes": 173453,
+    "optimized_bytes": 22468
+  },
+  {
+    "source": "Images/Dragon_Ball_Super_Logo.png",
+    "output": "Images/optimized/dragon-ball-super-logo-b48fd4c3.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 681,
+    "original_bytes": 303526,
+    "optimized_bytes": 73874
+  },
+  {
+    "source": "Images/Dr_Slump.svg.png",
+    "output": "Images/optimized/dr-slump-svg-3a1d1857.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 440,
+    "height": 348,
+    "original_bytes": 44239,
+    "optimized_bytes": 19318
+  },
+  {
+    "source": "Images/berserk-symbol.png",
+    "output": "Images/optimized/berserk-symbol-83afb033.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 178,
+    "height": 178,
+    "original_bytes": 5868,
+    "optimized_bytes": 4120
+  },
+  {
+    "source": "Images/site-assets/demon-slayer.jpg",
+    "output": "Images/optimized/demon-slayer-988ba247.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 736,
+    "height": 736,
+    "original_bytes": 56799,
+    "optimized_bytes": 36048
+  },
+  {
+    "source": "Images/books_icon.png",
+    "output": "Images/optimized/books-icon-14606f10.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 32,
+    "height": 32,
+    "original_bytes": 26859,
+    "optimized_bytes": 2247
+  },
+  {
+    "source": "Images/premiere.png",
+    "output": "Images/optimized/premiere-4c56cfd9.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 225,
+    "height": 225,
+    "original_bytes": 1659,
+    "optimized_bytes": 1468
+  },
+  {
+    "source": "Images/aftereffects.png",
+    "output": "Images/optimized/aftereffects-c0619891.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 300,
+    "height": 292,
+    "original_bytes": 32677,
+    "optimized_bytes": 4814
+  },
+  {
+    "source": "Images/skills.png",
+    "output": "Images/optimized/skills-66c87c63.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 32,
+    "height": 32,
+    "original_bytes": 36149,
+    "optimized_bytes": 2416
+  },
+  {
+    "source": "Images/food champ.png",
+    "output": "Images/optimized/food-champ-2608fa9d.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 1600,
+    "original_bytes": 398369,
+    "optimized_bytes": 65320
+  },
+  {
+    "source": "Images/logo_1200by630_forFbSharing.png",
+    "output": "Images/optimized/logo-1200by630-forfbsharing-6c54f673.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1103,
+    "height": 280,
+    "original_bytes": 28470,
+    "optimized_bytes": 9678
+  },
+  {
+    "source": "Images/EOTD.png",
+    "output": "Images/optimized/eotd-e06ea4dc.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 696,
+    "height": 859,
+    "original_bytes": 326043,
+    "optimized_bytes": 62718
+  },
+  {
+    "source": "Images/site-assets/madhyam-logo.png",
+    "output": "Images/optimized/madhyam-logo-f6ffde14.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 131,
+    "height": 105,
+    "original_bytes": 12562,
+    "optimized_bytes": 3964
+  },
+  {
+    "source": "Images/Screenshot 2023-12-05 103002.png",
+    "output": "Images/optimized/screenshot-2023-12-05-103002-2755b8c5.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1290,
+    "height": 882,
+    "original_bytes": 2465999,
+    "optimized_bytes": 279752
+  },
+  {
+    "source": "Images/site-assets/acasa-project.png",
+    "output": "Images/optimized/acasa-project-e456b9e3.webp",
+    "max_edge": 1600,
+    "role": "image",
+    "width": 1600,
+    "height": 900,
+    "original_bytes": 661917,
+    "optimized_bytes": 330964
+  },
+  {
+    "source": "Images/62959-hammer-and-wrench-icon.png",
+    "output": "Images/optimized/62959-hammer-and-wrench-icon-d434404a.png",
+    "max_edge": 32,
+    "role": "icon",
+    "width": 32,
+    "height": 32,
+    "original_bytes": 133628,
+    "optimized_bytes": 2205
+  },
+  {
+    "source": "Images/site-assets/design-banner.jpg",
+    "output": "Images/optimized/design-banner-51fd47d8.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 2000,
+    "height": 2000,
+    "original_bytes": 3032011,
+    "optimized_bytes": 1776528
+  },
+  {
+    "source": "Images/site-assets/design-background.jpg",
+    "output": "Images/optimized/design-background-9197cb1f.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1920,
+    "height": 1358,
+    "original_bytes": 572983,
+    "optimized_bytes": 429046
+  },
+  {
+    "source": "Images/site-assets/education-banner.jpg",
+    "output": "Images/optimized/education-banner-c141bafe.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 612,
+    "height": 459,
+    "original_bytes": 44671,
+    "optimized_bytes": 30114
+  },
+  {
+    "source": "Images/education_bg.jpg",
+    "output": "Images/optimized/education-bg-0cc829c9.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1024,
+    "height": 1024,
+    "original_bytes": 583134,
+    "optimized_bytes": 177750
+  },
+  {
+    "source": "Images/gaming_jumbo.jpg",
+    "output": "Images/optimized/gaming-jumbo-8b30da00.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 2560,
+    "height": 1358,
+    "original_bytes": 225327,
+    "optimized_bytes": 44192
+  },
+  {
+    "source": "Images/site-assets/pubg-background.png",
+    "output": "Images/optimized/pubg-background-e6d66e99.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 950,
+    "height": 1689,
+    "original_bytes": 2186580,
+    "optimized_bytes": 210580
+  },
+  {
+    "source": "Images/site-assets/doom-eternal.jpg",
+    "output": "Images/optimized/doom-eternal-dec4ee6c.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 68564,
+    "optimized_bytes": 33538
+  },
+  {
+    "source": "Images/site-assets/days-gone-background.jpg",
+    "output": "Images/optimized/days-gone-background-0a2fb62c.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 2160,
+    "height": 3840,
+    "original_bytes": 607513,
+    "optimized_bytes": 347006
+  },
+  {
+    "source": "Images/site-assets/call-of-duty-background.jpg",
+    "output": "Images/optimized/call-of-duty-background-0e545081.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 640,
+    "height": 750,
+    "original_bytes": 77166,
+    "optimized_bytes": 55946
+  },
+  {
+    "source": "Images/site-assets/battlefield-background.jpg",
+    "output": "Images/optimized/battlefield-background-decf5fe2.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 680,
+    "height": 680,
+    "original_bytes": 88514,
+    "optimized_bytes": 73442
+  },
+  {
+    "source": "Images/site-assets/delta-force.jpg",
+    "output": "Images/optimized/delta-force-367c994f.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 31345,
+    "optimized_bytes": 9736
+  },
+  {
+    "source": "Images/site-assets/gta-background.jpg",
+    "output": "Images/optimized/gta-background-64498be9.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 480,
+    "height": 480,
+    "original_bytes": 39694,
+    "optimized_bytes": 31742
+  },
+  {
+    "source": "Images/site-assets/metro-background.jpg",
+    "output": "Images/optimized/metro-background-e475d033.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 480,
+    "height": 270,
+    "original_bytes": 38982,
+    "optimized_bytes": 26002
+  },
+  {
+    "source": "Images/site-assets/batman-background.webp",
+    "output": "Images/optimized/batman-background-d41cb169.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 2867,
+    "height": 4000,
+    "original_bytes": 2835010,
+    "optimized_bytes": 1054416
+  },
+  {
+    "source": "Images/site-assets/cyberpunk-background.jpg",
+    "output": "Images/optimized/cyberpunk-background-3cc62c45.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1600,
+    "height": 900,
+    "original_bytes": 325518,
+    "optimized_bytes": 274532
+  },
+  {
+    "source": "Images/site-assets/dying-light.jpg",
+    "output": "Images/optimized/dying-light-77b80e33.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 43436,
+    "optimized_bytes": 26042
+  },
+  {
+    "source": "Images/site-assets/far-cry-background.jpg",
+    "output": "Images/optimized/far-cry-background-e2c7f863.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1200,
+    "height": 1200,
+    "original_bytes": 313660,
+    "optimized_bytes": 279132
+  },
+  {
+    "source": "Images/site-assets/fallout-4.jpg",
+    "output": "Images/optimized/fallout-4-50ecec92.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 37114,
+    "optimized_bytes": 18134
+  },
+  {
+    "source": "Images/site-assets/red-dead-redemption-background.jpg",
+    "output": "Images/optimized/red-dead-redemption-background-0e3775fa.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 750,
+    "height": 1334,
+    "original_bytes": 107076,
+    "optimized_bytes": 50914
+  },
+  {
+    "source": "Images/site-assets/need-for-speed-background.jpg",
+    "output": "Images/optimized/need-for-speed-background-da9998cf.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1000,
+    "height": 1500,
+    "original_bytes": 146642,
+    "optimized_bytes": 68142
+  },
+  {
+    "source": "Images/site-assets/forza-horizon-background.jpg",
+    "output": "Images/optimized/forza-horizon-background-151e65ec.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1440,
+    "height": 2160,
+    "original_bytes": 611588,
+    "optimized_bytes": 365100
+  },
+  {
+    "source": "Images/site-assets/titanfall-background.jpg",
+    "output": "Images/optimized/titanfall-background-62162aa3.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1024,
+    "height": 1024,
+    "original_bytes": 223951,
+    "optimized_bytes": 146986
+  },
+  {
+    "source": "Images/site-assets/bioshock.jpg",
+    "output": "Images/optimized/bioshock-e62e91ee.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 27814,
+    "optimized_bytes": 20806
+  },
+  {
+    "source": "Images/site-assets/sniper-elite-background.jpg",
+    "output": "Images/optimized/sniper-elite-background-6704f309.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1125,
+    "height": 2436,
+    "original_bytes": 363794,
+    "optimized_bytes": 261222
+  },
+  {
+    "source": "Images/site-assets/just-cause-background.jpg",
+    "output": "Images/optimized/just-cause-background-3bc0151f.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1080,
+    "height": 1920,
+    "original_bytes": 1787645,
+    "optimized_bytes": 235214
+  },
+  {
+    "source": "Images/site-assets/wolfenstein-background.jpg",
+    "output": "Images/optimized/wolfenstein-background-5a485bfb.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1920,
+    "height": 1080,
+    "original_bytes": 120136,
+    "optimized_bytes": 72626
+  },
+  {
+    "source": "Images/site-assets/dragon-ball-background.jpg",
+    "output": "Images/optimized/dragon-ball-background-71726c8b.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 600,
+    "height": 900,
+    "original_bytes": 128619,
+    "optimized_bytes": 106506
+  },
+  {
+    "source": "Images/site-assets/naruto-storm-background.jpg",
+    "output": "Images/optimized/naruto-storm-background-825aa1f2.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1024,
+    "height": 1024,
+    "original_bytes": 283261,
+    "optimized_bytes": 197016
+  },
+  {
+    "source": "Images/site-assets/flight-simulator.jpg",
+    "output": "Images/optimized/flight-simulator-52d5ba60.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 460,
+    "height": 215,
+    "original_bytes": 48644,
+    "optimized_bytes": 24694
+  },
+  {
+    "source": "Images/headbg.jpg",
+    "output": "Images/optimized/headbg-af7d1e2d.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1920,
+    "height": 1080,
+    "original_bytes": 596138,
+    "optimized_bytes": 158678
+  },
+  {
+    "source": "Images/indexbg.jpg",
+    "output": "Images/optimized/indexbg-44fb82fd.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 484,
+    "height": 322,
+    "original_bytes": 92358,
+    "optimized_bytes": 41384
+  },
+  {
+    "source": "Images/paper_crumpled_light_shadow.jpg",
+    "output": "Images/optimized/paper-crumpled-light-shadow-1108ef31.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1920,
+    "height": 1080,
+    "original_bytes": 692490,
+    "optimized_bytes": 113834
+  },
+  {
+    "source": "Images/background-skills.jpg",
+    "output": "Images/optimized/background-skills-51508abf.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 800,
+    "height": 800,
+    "original_bytes": 246637,
+    "optimized_bytes": 198084
+  },
+  {
+    "source": "Images/design-bg2.jpg",
+    "output": "Images/optimized/design-bg2-1ad8500d.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 995,
+    "height": 1001,
+    "original_bytes": 164425,
+    "optimized_bytes": 55764
+  },
+  {
+    "source": "Images/teaching-bg.jpg",
+    "output": "Images/optimized/teaching-bg-85b9ed0c.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1600,
+    "height": 1050,
+    "original_bytes": 1244502,
+    "optimized_bytes": 55962
+  },
+  {
+    "source": "Images/musicbg.jpg",
+    "output": "Images/optimized/musicbg-7186a22c.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1200,
+    "height": 800,
+    "original_bytes": 166879,
+    "optimized_bytes": 144774
+  },
+  {
+    "source": "Images/reading_background.jpg",
+    "output": "Images/optimized/reading-background-3995968f.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1024,
+    "height": 675,
+    "original_bytes": 399771,
+    "optimized_bytes": 123828
+  },
+  {
+    "source": "Images/site-assets/experience-banner.jpg",
+    "output": "Images/optimized/experience-banner-0e7ce02d.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1380,
+    "height": 920,
+    "original_bytes": 67762,
+    "optimized_bytes": 29054
+  },
+  {
+    "source": "Images/site-assets/experience-background.jpg",
+    "output": "Images/optimized/experience-background-976660ee.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 626,
+    "height": 334,
+    "original_bytes": 47239,
+    "optimized_bytes": 17366
+  },
+  {
+    "source": "Images/download.jpg",
+    "output": "Images/optimized/download-030ca75e.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 3278,
+    "height": 2612,
+    "original_bytes": 10754854,
+    "optimized_bytes": 441560
+  },
+  {
+    "source": "Images/site-assets/acasa-project.png",
+    "output": "Images/optimized/acasa-project-8faf4aa1.webp",
+    "max_edge": null,
+    "role": "background",
+    "width": 1640,
+    "height": 923,
+    "original_bytes": 661917,
+    "optimized_bytes": 344812
+  }
+]

@@ -9,7 +9,7 @@
 }
 
 .jumbotron {
-  background-image: url(Images/headbg.jpg);
+  background-image: url(Images/optimized/headbg-af7d1e2d.webp);
 }
 
 h3 {
@@ -64,7 +64,7 @@ p {
 }
 
 body {
-  background-image: url(Images/indexbg.jpg);
+  background-image: url(Images/optimized/indexbg-44fb82fd.webp);
 }
 
 .display-4 {
@@ -76,7 +76,7 @@ body {
 }
 
 #reading {
-  background-image: url(Images/paper_crumpled_light_shadow.jpg)
+  background-image: url(Images/optimized/paper-crumpled-light-shadow-1108ef31.webp)
 }
 
 #gaming {
@@ -88,7 +88,7 @@ body {
 }
 
 #coding {
-  background-image: url(Images/background-skills.jpg)
+  background-image: url(Images/optimized/background-skills-51508abf.webp)
 }
 
 #coding>.card-body {
@@ -100,11 +100,11 @@ body {
 }
 
 #designing {
-  background-image: url(Images/design-bg2.jpg)
+  background-image: url(Images/optimized/design-bg2-1ad8500d.webp)
 }
 
 #music {
-  background-image: url(Images/design-bg2.jpg)
+  background-image: url(Images/optimized/design-bg2-1ad8500d.webp)
 }
 
 #music>.card-body {
@@ -112,7 +112,7 @@ body {
 }
 
 #teaching {
-  background-image: url(Images/teaching-bg.jpg)
+  background-image: url(Images/optimized/teaching-bg-85b9ed0c.webp)
 }
 
 .grid {
