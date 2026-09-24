@@ -1,10 +1,10 @@
 .jumbotron {
-    background-image: url(https://img.freepik.com/free-vector/cerulean-blue-curve-frame-template_53876-99029.jpg?t=st=1656157741~exp=1656158341~hmac=fee1183934e162839adb603fc537bbb06c153550f27f88263affe88f4e7dfc26&w=1380);
+    background-image: url(Images/site-assets/experience-banner.jpg);
     background-size: cover;
 }
 
 body {
-    background-image: url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg);
+    background-image: url(Images/site-assets/experience-background.jpg);
 }
 
 #FC {
@@ -22,7 +22,7 @@ p {
 }
 
 #madhyam{
-    background-image: url(https://magazine.elitehavens.com/wp-content/uploads/2023/08/Anjuna-Beach.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), url(Images/site-assets/acasa-project.png);
     background-size: cover;
 }
 

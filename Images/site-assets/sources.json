@@ -1,0 +1,626 @@
+{
+  "date": "2026-09-24",
+  "note": "Original artwork reused where available. Replacement game artwork comes from the corresponding Steam listing; source links are provenance, not runtime dependencies. Two remaining property slides use The Origin and Acasa artwork, as requested; the unidentified dead third image was removed. Existing media ownership is unchanged.",
+  "assets": [
+    {
+      "path": "Images/site-assets/doom-eternal.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/feaf8293bcd2d078422faa547bc0d707c08f606e/header.jpg?t=1783432602",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/delta-force.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32620/header.jpg?t=1733246315",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/fallout-4.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1786648137",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/dying-light.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1782913513",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/bioshock.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg?t=1730172622",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/flight-simulator.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/days-gone.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/metro-exodus.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg?t=1750772804",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/just-cause-3.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg?t=1782912719",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/titanfall-2.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1779987598",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/naruto-storm-4.jpg",
+      "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg?t=1703080866",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/gta-logo.svg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Grand_Theft_Auto_logo_series.svg",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/cyberpunk-logo.svg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Cyberpunk_2077_logo.svg",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/nfs-logo.svg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Need_For_Speed_logo.svg",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/attack-on-titan-logo.svg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Attack_on_Titan_logo.svg",
+      "action": "Replacement artwork for missing image or previously empty game image"
+    },
+    {
+      "path": "Images/site-assets/mail-icon.svg",
+      "source": "https://cdn.worldvectorlogo.com/logos/mail-ios.svg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/wolfenstein-background.jpg",
+      "source": "https://cdn.mos.cms.futurecdn.net/Moa5WFoRv4FkVA5UcRZNmg.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/gaming-icon.png",
+      "source": "https://drive.google.com/thumbnail?id=10y40OtWH-YsFliASr2VDyQfFxf7Eb3r-",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/armin-van-buuren.png",
+      "source": "https://cdn.freebiesupply.com/logos/large/2x/armin-van-buuren-logo-png-transparent.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/bleach.png",
+      "source": "https://drive.google.com/uc?id=10-IFTbAXnrQrgChKX4AxGbAm-afWhNAX",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/Percy_Jackson.png",
+      "source": "https://drive.google.com/uc?id=10VKRj7aKjX15tjATRo3kadBk6JPqfJu4",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/Magnus Chase.jpg",
+      "source": "https://drive.google.com/uc?id=1551Jw09aDWjkqS0qS2U34M1CRNpU6Bkm",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/fma.png",
+      "source": "https://drive.google.com/uc?id=15EsQ3Ksd4CwaRQlYL4f5pQmEgCpzj5G4",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/illustrator.png",
+      "source": "https://drive.google.com/uc?id=15PgiGkT0d2rJjqGVyC7tB9sbYfC4zjAe",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/Dragon_Ball_Super_Logo.png",
+      "source": "https://drive.google.com/uc?id=164KXLOr35J8mpW_oACz5VhsqERwGnokQ",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/The-Fault-In-Our-Stars-logo.png",
+      "source": "https://drive.google.com/uc?id=15xpocuG5G1YD8Bba-XnuUlYMz7xzFo-i",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/site-assets/pubg-background.png",
+      "source": "https://drive.google.com/uc?id=1-apC_a_4cxMPC7slxMsHyzhL44YGum0v",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/The_Trials_of_Apollo_logo.png",
+      "source": "https://drive.google.com/uc?id=16Q65MQYI-eStJz7KgpfbbqMvWO--uNUE",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/rezz.jpg",
+      "source": "https://drive.google.com/uc?id=1BFBIT5AQD_sYE4rVVuwnX_sbFeR1OB_B",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/books_icon.png",
+      "source": "https://drive.google.com/uc?id=18l9ohRtmTcwQPJdicezXQ6FpMmee2Dr2",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/zhu.jpg",
+      "source": "https://drive.google.com/uc?id=19EYokPshz1K_Ksy6eERLcykxH55BUdMF",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/onepunchman.jpg",
+      "source": "https://drive.google.com/uc?id=1EADwzSgjrV3oRSJBUqUWdBcFIf2AyyH-",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/divergent.jpg",
+      "source": "https://drive.google.com/uc?id=1FHIYMDj4hD8G-9YXCcWAnWLBPcHxQCyI",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/tokyoghoul.png",
+      "source": "https://drive.google.com/uc?id=1LIHkfA4tkYUAQACq-2kXPIhVUHb_kwLY",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/TWD.jpg",
+      "source": "https://drive.google.com/uc?id=1MCcjZnCa-v4AAnQinO5pDIn3WTm7roqX",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/heroes-olympus-logo.jpg",
+      "source": "https://drive.google.com/uc?id=1OlNmudfXnhLE1Qi9JTCY75BOLpcVdgFx",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/gone.jpg",
+      "source": "https://drive.google.com/uc?id=1PN65FzSa-Dqp7ayyl04Cj_dhP9XcpOAD",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/OP.jpg",
+      "source": "https://drive.google.com/uc?id=1SF3X8gyPPFvVh5TKe6Jl3_whikzJCyh-",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/AC.gif",
+      "source": "https://drive.google.com/uc?id=1TOiJpBDkMpjT8bP8nGAVtVHeFPvGsAnQ",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/vini vici.png",
+      "source": "https://drive.google.com/uc?id=1Tc_8Airx1CET_32OZ3de9XlB2cqRXK3W",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/deadmau5logo.jpg",
+      "source": "https://drive.google.com/uc?id=1WN7osF1GdgeMP7V7f_QURm8HiYXAtZgG",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/DN.jpg",
+      "source": "https://drive.google.com/uc?id=1Wvc4Nk9YQPmaAHmK-X7PO4Hu6WNkzWVi",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/DBZ.png",
+      "source": "https://drive.google.com/uc?id=1cZS-GlBMFiIlChWrYscjdNEob4qpbDUx",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/gaming_background.jpg",
+      "source": "https://drive.google.com/uc?id=1cilNrxZgahHU5J1EPtyKvXsPnfNRM1xR",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/kane-chronicles.png",
+      "source": "https://drive.google.com/uc?id=1cklgBred3jcVkB08kFpyGhlRyD4FXglF",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/kygo.png",
+      "source": "https://drive.google.com/uc?id=1fhB5bMrvqcFeotsvIqK_QU10-9uYCI26",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/musicbg.jpg",
+      "source": "https://drive.google.com/uc?id=1eRNmP1yKzl4jJsqz1YND1TPgnKz27cmg",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/hxh.jpg",
+      "source": "https://drive.google.com/uc?id=1iCaC9NGXjMRbKnj6rkY78zOoyl42mfEA",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/internships-02.jpg",
+      "source": "https://drive.google.com/uc?id=1eVr5JSCQYzQqjvqOuizGKi8nxaX8IN8i",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/berserk-symbol.png",
+      "source": "https://drive.google.com/uc?id=1iLxeMembucf3jeaJk0uMMJ06XHp9-pwi",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/gaming_jumbo.jpg",
+      "source": "https://drive.google.com/uc?id=1jyg0XaVaUjy5vQSgxZ6VQZZJCm4ZpE33",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/marsh.jpg",
+      "source": "https://drive.google.com/uc?id=1p9Nq9FTAVQzQGl-LDA_gKByXdtEopNif",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/site-assets/doom-eternal-logo.png",
+      "source": "https://drive.google.com/uc?id=1hnRbd4oAyXURfm7Pq261OGYbtp2jitXM",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/The_Chronicles_of_Narnia_Logo.png",
+      "source": "https://drive.google.com/uc?id=1om98h28c_D6paDV-zejWEOQ_1_Rn_DUg",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/musiclogo.png",
+      "source": "https://drive.google.com/uc?id=1m69v4iC4IdvCSMPGe4W-1EPhf4S3RYaM",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/reading_background.jpg",
+      "source": "https://drive.google.com/uc?id=1q8HR96s9s89MtjbOSeUoKr-WPzaKbYWY",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/Dr_Slump.svg.png",
+      "source": "https://drive.google.com/uc?id=1rRE1CnIMyVKW_d2cEWn9vqyrG7qmXZdI",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/photoshop.png",
+      "source": "https://drive.google.com/uc?id=1pOGeflbPcuJdzk7mb-9xejMe0flcNa-q",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/undercover.jpg",
+      "source": "https://drive.google.com/uc?id=1skz8omLLWhDJ4fToM0kjPzSbiPdHzZJg",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/site-assets/far-cry-background.jpg",
+      "source": "https://i.guim.co.uk/img/media/f339b990a480adc8bda541c56dc4b977e157569b/120_0_1800_1080/master/1800.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=98fe40febd1e6eea1d11ecfdbdbc04f4",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/tintin.jpg",
+      "source": "https://i.pinimg.com/236x/9e/46/74/9e4674619fbd12dcde6f39e36022a967.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/demon-slayer.jpg",
+      "source": "https://i.pinimg.com/736x/3c/ba/c4/3cbac438d9906911b5b4227d6c66a31c.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/russ.jpg",
+      "source": "https://i.pinimg.com/originals/70/66/e4/7066e464effb34f4e5b976c1cc56a8e3.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/babalos.jpg",
+      "source": "https://i.scdn.co/image/0e809ed5db415a6c81e45f975f7480c1eec3c665",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/daft-punk.jpg",
+      "source": "https://i.scdn.co/image/b8aaf4b179bb0a52f29a810fdb0f9d5c16ec2c75",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/delta-force-icon.png",
+      "source": "https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-28/256/Delta-Force-1-icon.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/Naruto.jpg",
+      "source": "https://drive.google.com/uc?id=1wa00HfRWb2ifIWE0XH9Xse5VA77Rc_2h",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/site-assets/far-cry-logo.png",
+      "source": "https://freepngimg.com/thumb/far_cry/141047-far-logo-cry-free-download-png-hd.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/design-icon.png",
+      "source": "https://drive.google.com/uc?id=1wUDDYWCwuN77vFZZfQEXDm1oqzFVNzZZ",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/Deathly_Hallows_Sign.svg.png",
+      "source": "https://drive.google.com/uc?id=1xrrFy78jWrxxZsJfWLKVhlrFDBhxdbh6",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/site-assets/need-for-speed-background.jpg",
+      "source": "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmVlZCUyMGZvciUyMHNwZWVkfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/music-bg.jpg",
+      "source": "https://drive.google.com/uc?id=1zhF0_1I7inDxPtJJGo1lIQ0Zz-Lzl_9x",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/ft.png",
+      "source": "https://drive.google.com/uc?id=1znMQLXQ7Xis2EEo2EkhRwcCBnUELVYtH",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/site-assets/batman-arkham-knight-logo.png",
+      "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c95dc50d-8303-4046-b546-9c97bed73b0b/d7frfhr-345d00ca-4087-4c52-bd41-19d04388a62c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5NWRjNTBkLTgzMDMtNDA0Ni1iNTQ2LTljOTdiZWQ3M2IwYlwvZDdmcmZoci0zNDVkMDBjYS00MDg3LTRjNTItYmQ0MS0xOWQwNDM4OGE2MmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aZ6S9BFcZYwuiZTJ-CaOOtxwYpJpk5MjL-XLi2BWYG0",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/dragon-ball-background.jpg",
+      "source": "https://img.betaseries.com/YvSM_mH8U1B4Iz8d2-5t5Zw61MQ=/600x900/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffonds%2Fposter%2F3440264042f307c0fa15dfa2decafe9d.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/promised-neverland.png",
+      "source": "https://img1.picmix.com/output/stamp/normal/0/6/0/9/2179060_e7713.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/call-of-duty-logo.png",
+      "source": "https://logos-world.net/wp-content/uploads/2021/02/Call-of-Duty-Logo-2008-2009-700x394.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/my-hero-academia.png",
+      "source": "https://logos-world.net/wp-content/uploads/2021/09/My-Hero-Academia-Logo-2016-present.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/paper_crumpled_light_shadow.jpg",
+      "source": "https://drive.google.com/uc?id=1zUI6DAu0TdCdLwSMsvk3vpxZe2fSC8VE",
+      "action": "Reused byte-identical repository image"
+    },
+    {
+      "path": "Images/site-assets/design-banner.jpg",
+      "source": "https://image.freepik.com/free-photo/_26514-26.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/battlefield-background.jpg",
+      "source": "https://media.contentapi.ea.com/content/dam/gin/images/2021/06/battlefield-2042-key-art.jpg.adapt.crop1x1.767w.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/education-banner.jpg",
+      "source": "https://media.istockphoto.com/id/948623158/vector/seamless-innovation-and-scientific-data-background.jpg?s=612x612&w=0&k=20&c=IHOut6hIYjxiY5MZlu1gDd4_K886MhfVpfUQxYLr16E=",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/pubg-logo.png",
+      "source": "https://img.icons8.com/windows/452/pubg.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/just-cause-background.jpg",
+      "source": "https://pbs.twimg.com/media/E6_BP7DVEAALZ_-?format=jpg&name=large",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/battlefield-logo.png",
+      "source": "https://pngimg.com/uploads/battlefield/battlefield_PNG72.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/fallout-logo.png",
+      "source": "https://pngimg.com/uploads/fallout/fallout_PNG34.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/red-dead-redemption-background.jpg",
+      "source": "https://r1.ilikewallpaper.net/iphone-8-wallpapers/download/78683/red-dead-redemption-4k-landhscape-iphone-8-wallpaper-ilikewallpaper_com.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/metro-background.jpg",
+      "source": "https://store-images.s-microsoft.com/image/apps.25703.13781561070841959.2a25a66a-3f42-4b00-998c-a5fa602b68a5.1f7c6873-e251-4c3d-8f52-f08c6dcc2d97?q=90&w=480&h=270",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/forza-horizon-background.jpg",
+      "source": "https://store-images.s-microsoft.com/image/apps.38727.13644046779257471.1e2d89dd-a800-4e95-8dae-3c4213950c11.a5f0adff-bf68-4415-bf74-457d991d3ce7",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/experience-background.jpg",
+      "source": "https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/experience-banner.jpg",
+      "source": "https://img.freepik.com/free-vector/cerulean-blue-curve-frame-template_53876-99029.jpg?t=st=1656157741~exp=1656158341~hmac=fee1183934e162839adb603fc537bbb06c153550f27f88263affe88f4e7dfc26&w=1380",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/sniper-elite-background.jpg",
+      "source": "https://wallpapercave.com/wp/wp5707773.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/wolfenstein-logo.png",
+      "source": "https://seeklogo.com/images/W/Wolfenstein-logo-0CD2E19AE3-seeklogo.com.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/titanfall-background.jpg",
+      "source": "https://image.api.playstation.com/cdn/UP0006/CUSA04027_00/w0dE1GRXBbdILiQd4eEw2zJrVk5fmJWM.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/call-of-duty-background.jpg",
+      "source": "https://www.callofduty.com/content/dam/atvi/callofduty/mobile/home/characters/characters-ghost.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/dragon-ball-logo.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/naruto-storm-background.jpg",
+      "source": "https://image.api.playstation.com/cdn/UP0700/CUSA02412_00/2pfYJIXY2aTnMUe8eSET7YaxkOcUTbfm.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/cyberpunk-background.jpg",
+      "source": "https://www.cyberpunk.net/build/images/home3/screen-image-about-b-6e3102b1.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/sniper-elite-logo.png",
+      "source": "https://www.pngall.com/wp-content/uploads/6/Sniper-Elite-Logo-PNG-File.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/madhyam-logo.png",
+      "source": "https://www.madhyam.com/frontimg/logo-in.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/days-gone-background.jpg",
+      "source": "https://www.mordeo.org/files/uploads/2021/04/Days-Gone-Game-Poster-4K-Ultra-HD-Mobile-Wallpaper.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/gta-background.jpg",
+      "source": "https://www.allkeyshop.com/blog/wp-content/uploads/gta-remastered-trilogy-featured.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/martin-garrix.jpg",
+      "source": "https://yt3.ggpht.com/a/AATXAJxhHvZH8IfoXxxdxvvY8BLv5ftxhFAZz5J99A=s900-c-k-c0xffffffff-no-rj-mo",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/red-dead-redemption-logo.png",
+      "source": "https://www.seekpng.com/png/full/170-1703814_red-dead-redemption-red-dead-redemption-2-logo.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/design-background.jpg",
+      "source": "https://w-dog.ru/wallpapers/15/13/559732270070079.jpg",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/batman-background.webp",
+      "source": "https://static.wikia.nocookie.net/arkhamcity/images/f/fb/ArkhamKnight.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/acasa-project.png",
+      "source": "https://www.samava.in/acasa/images/header.png",
+      "action": "Saved original external image locally"
+    },
+    {
+      "path": "Images/site-assets/delta-force.jpg",
+      "replaces": "https://deltaforcegame.com/wp-content/uploads/2018/01/Setup-Delta-Force-Xtreme-2.jpg",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/fallout-4.jpg",
+      "replaces": "https://cdn.pocket-lint.com/r/s/970x/assets/images/135853-games-review-hands-on-fallout-4-first-impressions-review-image1-ibqmuv97zd.jpg",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/Sherlock.jpg",
+      "replaces": "https://drive.google.com/uc?id=1XgvPLF8TiTC4huxgQD8QeUxGXhB78Yei",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/Screenshot 2023-12-05 103002.png",
+      "replaces": "https://drive.google.com/uc?id=1tXZeUNM-DrfumV0-4sMDN_CB5GDBItTX",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/doom-eternal.jpg",
+      "replaces": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_5i2hXE4QRdZNXtyHHnNITP53N8gZ4cEnA&usqp=CAU",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/attack-on-titan-logo.svg",
+      "replaces": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b460938b-d443-4b2a-baad-afce23c05d19/d6mq0v4-be5ffe1e-a569-45b3-b3b9-fe9deda15f73.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/dying-light.jpg",
+      "replaces": "https://m.media-amazon.com/images/M/MV5BZTkyMDc5M2EtZmRhNS00ODY0LTg2NDEtZGUzNGVhYmFiNWE3XkEyXkFqcGdeQXVyMTk5NDI0MA@@._V1_.jpg",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/bioshock.jpg",
+      "replaces": "https://m.media-amazon.com/images/M/MV5BNjBkZmI4NzktZTJmMC00NDNlLTk2M2ItNGEwODUxZGEwNmZiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/acasa-project.png",
+      "replaces": "https://magazine.elitehavens.com/wp-content/uploads/2023/08/Anjuna-Beach.jpg",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/metro-exodus.jpg",
+      "replaces": "https://pbs.twimg.com/profile_images/1371822664449462272/VgH-xJ_I_400x400.jpg",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/nfs-logo.svg",
+      "replaces": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Need_For_Speed_logo.svg/1200px-Need_For_Speed_logo.svg.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/gta-logo.svg",
+      "replaces": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Grand_Theft_Auto_logo_series.svg/2550px-Grand_Theft_Auto_logo_series.svg.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/cyberpunk-logo.svg",
+      "replaces": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cyberpunk_2077_logo.svg/2560px-Cyberpunk_2077_logo.svg.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/just-cause-3.jpg",
+      "replaces": "https://upload.wikimedia.org/wikipedia/en/f/f3/Just_Cause_Logo_2006.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/asterix.jpg",
+      "replaces": "https://www.asterix.com/wp-content/uploads/2018/03/logo3-normalen.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/flight-simulator.jpg",
+      "replaces": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/b152e83ff597b1331cb62b2ee4c98dc9.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    },
+    {
+      "path": "Images/site-assets/days-gone.jpg",
+      "replaces": "https://vgboxart.com/resources/logo/13936_days-gone-prev.png",
+      "action": "Replaced unavailable image with matching local/recovered artwork"
+    }
+  ]
+}

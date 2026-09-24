@@ -1,9 +1,9 @@
 body {
-    background-image: url(https://drive.google.com/uc?id=1q8HR96s9s89MtjbOSeUoKr-WPzaKbYWY)
+    background-image: url(Images/reading_background.jpg)
 }
 
 .jumbotron {
-    background-image: url(https://drive.google.com/uc?id=1zUI6DAu0TdCdLwSMsvk3vpxZe2fSC8VE)
+    background-image: url(Images/paper_crumpled_light_shadow.jpg)
 }
 
 .card-deck>.card>.card-body>h1 {
