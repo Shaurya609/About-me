@@ -1,0 +1,125 @@
+.grid {
+  display: grid;
+  grid-template-columns: 110px 110px 110px;
+}
+
+.grid>div {
+  display: inline-block;
+  margin: 5px;
+}
+
+.jumbotron {
+  background-image: url(Images/optimized/headbg-af7d1e2d.webp);
+}
+
+h3 {
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+/* .card-deck>.card:hover {
+  transform: scale(1.05);
+  border: 4px solid #dc3545;
+  z-index: 1;
+  animation-name: video;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+} */
+
+@keyframes video {
+  0% {
+
+    border: 8px solid rgb(168, 23, 43);
+
+  }
+
+  25% {
+    border: 8px solid green;
+  }
+
+  50% {
+    border: 8px solid yellow;
+    border-radius: 10%;
+  }
+
+  75% {
+    border: 8px solid brown;
+  }
+
+  100% {
+    border: 8px solid blue;
+  }
+}
+
+
+
+
+.card-group>.card {
+  margin-right: 0px;
+}
+
+body {
+  background-image: url(Images/optimized/indexbg-44fb82fd.webp);
+}
+
+.display-4 {
+  text-align: center;
+}
+
+#type {
+  width: 50%;
+}
+
+#reading {
+  background-image: url(Images/optimized/paper-crumpled-light-shadow-1108ef31.webp)
+}
+
+#gaming {
+  background-image: url(Images/gaming_background.jpg)
+}
+
+#gaming>.card-body {
+  color: white;
+}
+
+#coding {
+  background-image: url(Images/optimized/background-skills-51508abf.webp)
+}
+
+#coding>.card-body {
+  color: white;
+}
+
+#coding>.card-body>.card-text {
+  font-size: 32px;
+}
+
+#designing {
+  background-image: url(Images/optimized/design-bg2-1ad8500d.webp)
+}
+
+#music {
+  background-image: url(Images/optimized/design-bg2-1ad8500d.webp)
+}
+
+#music>.card-body {
+  color: white;
+}
+
+#teaching {
+  background-image: url(Images/optimized/teaching-bg-85b9ed0c.webp)
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid > div{
+  display: inline-block;
+}

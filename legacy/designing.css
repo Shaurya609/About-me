@@ -1,0 +1,12 @@
+/* .col-sm-3:hover {
+    transform: scale(1.05);
+    z-index: 1;
+} */
+
+.jumbotron {
+    background-image: url(Images/optimized/design-banner-51fd47d8.webp);
+}
+
+body {
+    background-image: url(Images/optimized/design-background-9197cb1f.webp);
+}

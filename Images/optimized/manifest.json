@@ -1458,5 +1458,15 @@
     "height": 923,
     "original_bytes": 661917,
     "optimized_bytes": 344812
+  },
+  {
+    "source": "Images/portraits/shaurya-portrait.png",
+    "output": "Images/optimized/shaurya-portrait.webp",
+    "max_edge": 1280,
+    "role": "image",
+    "width": 1254,
+    "height": 1254,
+    "original_bytes": 2527356,
+    "optimized_bytes": 124658
   }
 ]

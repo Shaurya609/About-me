@@ -1,0 +1,552 @@
+.jumbotron {
+    background-image: url(Images/optimized/gaming-jumbo-8b30da00.webp);
+}
+
+h3 {
+    border-bottom: 1px solid black;
+}
+
+body {
+    background-image: url(Images/gaming_background.jpg)
+}
+
+.card {
+    text-align: center;
+}
+
+/* Keep recovered logos and replacement artwork inside their cards. */
+.card > img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-text {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
+#PUBG {
+    background-image: url(Images/optimized/pubg-background-e6d66e99.webp);
+    background-size: cover;
+}
+
+#PUBG:hover {
+    animation-name: pubg;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes pubg {
+    0% {
+        border: 5px solid cyan;
+    }
+
+    100% {
+        border: 5px solid cyan;
+        border-radius: 10%;
+    }
+}
+
+#eternal {
+    background-image: url(Images/optimized/doom-eternal-dec4ee6c.webp);
+    background-size: cover;
+}
+
+#eternal:hover {
+    animation-name: doom;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes doom {
+    0% {
+        border: 5px solid rgb(143, 0, 0);
+    }
+
+    100% {
+        border: 5px solid rgb(143, 0, 0);
+        border-radius: 10%;
+    }
+}
+
+#daysgone {
+    background-image: url(Images/optimized/days-gone-background-0a2fb62c.webp);
+    background-size: cover;
+}
+
+#daysgone:hover {
+    animation-name: days;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes days {
+    0% {
+        border: 5px solid white;
+    }
+
+    100% {
+        border: 5px solid white;
+        border-radius: 10%;
+    }
+}
+
+#COD {
+    background-image: url(Images/optimized/call-of-duty-background-0e545081.webp);
+    background-size: cover;
+}
+
+#COD:hover {
+    animation-name: callofduty;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes callofduty {
+    0% {
+        border: 5px solid #528A63;
+    }
+
+    100% {
+        border: 5px solid #528A63;
+        border-radius: 10%;
+    }
+}
+
+#battlefield {
+    background-image: url(Images/optimized/battlefield-background-decf5fe2.webp);
+    background-size: cover;
+}
+
+#battlefield:hover {
+    animation-name: battf;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes battf {
+    0% {
+        border: 5px solid black;
+    }
+
+    100% {
+        border: 5px solid black;
+        border-radius: 10%;
+    }
+}
+
+#deltaforce {
+    background-image: url(Images/optimized/delta-force-367c994f.webp);
+    background-size: cover;
+}
+
+#deltaforce:hover {
+    animation-name: delta;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes delta {
+    0% {
+        border: 5px solid darkgreen;
+    }
+
+    100% {
+        border: 5px solid darkgreen;
+        border-radius: 10%;
+    }
+}
+
+#gta {
+    background-image: url(Images/optimized/gta-background-64498be9.webp);
+    background-size: cover;
+}
+
+#gta:hover {
+    animation-name: grandtheft;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes grandtheft {
+    0% {
+        border: 5px solid darkmagenta;
+    }
+
+    100% {
+        border: 5px solid darkmagenta;
+        border-radius: 10%;
+    }
+}
+
+#metro {
+    background-image: url(Images/optimized/metro-background-e475d033.webp);
+    background-size: cover;
+}
+
+#metro:hover {
+    animation-name: met;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes met {
+    0% {
+        border: 5px solid yellow;
+    }
+
+    100% {
+        border: 5px solid yellow;
+        border-radius: 10%;
+    }
+}
+
+#batman {
+    background-image: url(Images/optimized/batman-background-d41cb169.webp);
+    background-size: cover;
+}
+
+#batman:hover {
+    animation-name: bat;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes bat {
+    0% {
+        border: 5px solid #4bcefd;
+    }
+
+    100% {
+        border: 5px solid #4bcefd;
+        border-radius: 10%;
+    }
+}
+
+#cyberpunk {
+    background-image: url(Images/optimized/cyberpunk-background-3cc62c45.webp);
+    background-size: cover;
+}
+
+#cyberpunk:hover {
+    animation-name: cyber;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes cyber {
+    0% {
+        border: 5px solid rgb(255, 232, 29);
+    }
+
+    100% {
+        border: 5px solid rgb(255, 232, 29);
+        border-radius: 10%;
+    }
+}
+
+#dyinglight {
+    background-image: url(Images/optimized/dying-light-77b80e33.webp);
+    background-size: cover;
+}
+
+#dyinglight:hover {
+    animation-name: dying;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes dying {
+    0% {
+        border: 5px solid orangered;
+    }
+
+    100% {
+        border: 5px solid orangered;
+        border-radius: 10%;
+    }
+}
+
+#farcry {
+    background-image: url(Images/optimized/far-cry-background-e2c7f863.webp);
+    background-size: cover;
+}
+
+#farcry:hover {
+    animation-name: far;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes far {
+    0% {
+        border: 5px solid brown;
+    }
+
+    100% {
+        border: 5px solid brown;
+        border-radius: 10%;
+    }
+}
+
+#fallout {
+    background-image: url(Images/optimized/fallout-4-50ecec92.webp);
+    background-size: cover;
+}
+
+#fallout:hover {
+    animation-name: fall;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fall {
+    0% {
+        border: 5px solid #477bb7;
+    }
+
+    100% {
+        border: 5px solid #477bb7;
+        border-radius: 10%;
+    }
+}
+
+#rdr2 {
+    background-image: url(Images/optimized/red-dead-redemption-background-0e3775fa.webp);
+    background-size: cover;
+}
+
+#rdr2:hover {
+    animation-name: reddead;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes reddead {
+    0% {
+        border: 5px solid red;
+    }
+
+    100% {
+        border: 5px solid red;
+        border-radius: 10%;
+    }
+}
+
+#nfs {
+    background-image: url(Images/optimized/need-for-speed-background-da9998cf.webp);
+    background-size: cover;
+}
+
+#nfs:hover {
+    animation-name: need;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes need {
+    0% {
+        border: 5px solid #ab005a;
+    }
+
+    100% {
+        border: 5px solid #ab005a;
+        border-radius: 10%;
+    }
+}
+
+#fh4 {
+    background-image: url(Images/optimized/forza-horizon-background-151e65ec.webp);
+    background-size: cover;
+}
+
+#fh4:hover {
+    animation-name: fh;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fh {
+    0% {
+        border: 5px solid #fe3f5d;
+    }
+
+    100% {
+        border: 5px solid #fe3f5d;
+        border-radius: 10%;
+    }
+}
+
+#titanfall {
+    background-image: url(Images/optimized/titanfall-background-62162aa3.webp);
+    background-size: cover;
+}
+
+#titanfall:hover {
+    animation-name: tf;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes tf {
+    0% {
+        border: 5px solid #70e5f7;
+    }
+
+    100% {
+        border: 5px solid #70e5f7;
+        border-radius: 10%;
+    }
+}
+
+#bioshock {
+    background-image: url(Images/optimized/bioshock-e62e91ee.webp);
+    background-size: cover;
+}
+
+#bioshock:hover {
+    animation-name: bs;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes bs {
+    0% {
+        border: 5px solid #aaaba6;
+    }
+
+    100% {
+        border: 5px solid #aaaba6;
+        border-radius: 10%;
+    }
+}
+
+#sniper {
+    background-image: url(Images/optimized/sniper-elite-background-6704f309.webp);
+    background-size: cover;
+}
+
+#sniper:hover {
+    animation-name: se;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes se {
+    0% {
+        border: 5px solid #5f3c29;
+    }
+
+    100% {
+        border: 5px solid #5f3c29;
+        border-radius: 10%;
+    }
+}
+
+#justcause {
+    background-image: url(Images/optimized/just-cause-background-3bc0151f.webp);
+    background-size: cover;
+}
+
+#justcause:hover {
+    animation-name: js;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes js {
+    0% {
+        border: 5px solid #d21717;
+    }
+
+    100% {
+        border: 5px solid #d21717;
+        border-radius: 10%;
+    }
+}
+
+#wolfenstein {
+    background-image: url(Images/optimized/wolfenstein-background-5a485bfb.webp);
+    background-size: cover;
+}
+
+#wolfenstein:hover {
+    animation-name: ws;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes ws {
+    0% {
+        border: 5px solid white;
+    }
+
+    100% {
+        border: 5px solid white;
+        border-radius: 10%;
+    }
+}
+
+#dbz {
+    background-image: url(Images/optimized/dragon-ball-background-71726c8b.webp);
+    background-size: cover;
+}
+
+#dbz:hover{
+    animation-name: draba;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes draba{
+    0%{
+        border: 5px solid #fec615;
+    }
+    100%{
+        border: 5px solid #fec615;
+        border-radius: 10%;
+    }
+}
+
+#nsuns4{
+    background-image: url(Images/optimized/naruto-storm-background-825aa1f2.webp);
+    background-size: cover;
+}
+
+#nsuns4:hover{
+    animation-name: naruto;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes naruto{
+    0%{
+        border: 5px solid #b5a6d8;
+    }
+    100%{
+        border: 5px solid #b5a6d8;
+        border-radius: 10%;
+    }
+}
+
+#mfs{
+    background-image: url(Images/optimized/flight-simulator-52d5ba60.webp);
+    background-size: cover;
+}
+
+#mfs:hover{
+    animation-name: micro;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes micro{
+    0%{
+        border: 5px solid blue;
+    }
+    100%{
+        border: 5px solid blue;
+        border-radius: 10%;
+    }
+}

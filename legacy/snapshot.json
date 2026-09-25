@@ -1,0 +1,822 @@
+{
+  "source_commit": "728fc8b4c3a27221ee279235027589345b15c916",
+  "description": "Original design after image repairs and performance improvements, before the redesign.",
+  "files": {
+    "Images/AC.gif": {
+      "bytes": 97364,
+      "sha256": "0b044eddd92a1153f47410c932fa66e7158ff9db3e714db94c3f8652a0a403dd"
+    },
+    "Images/DBZ.png": {
+      "bytes": 7401,
+      "sha256": "f25d53a8f4e39513cee93a7b5b2e2d716ba4c63b48a93720aa93cdf231cb47ff"
+    },
+    "Images/DN.jpg": {
+      "bytes": 1533,
+      "sha256": "f3cd313da8d9804fa69cfacca027f135435ca652611d01cba3e997964c43ad7f"
+    },
+    "Images/JavaScript-logo.png": {
+      "bytes": 10268,
+      "sha256": "48d0217513ae3384382ceb2c2f835902b61acc001c0f130421d07ae69d74a72d"
+    },
+    "Images/aps2.jpg": {
+      "bytes": 10838,
+      "sha256": "888bba5c9a148834bd1d6b2fa01c31e09c8101c6a71e31e938ec50b12ec7c0e0"
+    },
+    "Images/c-programming.png": {
+      "bytes": 28494,
+      "sha256": "dc9cf2191421eb907e48fc0ad4449447d0011254acdd99929a120e59320aba27"
+    },
+    "Images/gaming_background.jpg": {
+      "bytes": 172322,
+      "sha256": "e3a50b7fbc105ecf62ced07f22abccadaaa0e0cf53bc8708a2f9bf2beb75afb2"
+    },
+    "Images/illustrator.png": {
+      "bytes": 2093,
+      "sha256": "edb32850593805edf8723ba1414ba75fb6187ef70f6438f5c50b073c7afdf92a"
+    },
+    "Images/music-bg.jpg": {
+      "bytes": 284237,
+      "sha256": "514c8d64c5f29ad15dd77f3812516b5b2fb8c87c37f52d8db3754bdc207cb52d"
+    },
+    "Images/optimized/62959-hammer-and-wrench-icon-d434404a.png": {
+      "bytes": 2205,
+      "sha256": "1880eb89f0825388921d500e8763920aa8111547386af3e81ee9bb7a62bcce2a"
+    },
+    "Images/optimized/acasa-project-8faf4aa1.webp": {
+      "bytes": 344812,
+      "sha256": "d9f443807e17c1edb4938cb724488e9c5c6406401417f8439f52ded58226f683"
+    },
+    "Images/optimized/acasa-project-e456b9e3.webp": {
+      "bytes": 330964,
+      "sha256": "4d0e96a49438568fe6c3741daa92b6a4f76dfb3beb5d40be01fe3f5b311d9d61"
+    },
+    "Images/optimized/afgji-9ac02305.webp": {
+      "bytes": 77850,
+      "sha256": "5dad092008eb9e39112f50d92d5356c3b083c4b200334b04e8095d5f1d68dd3e"
+    },
+    "Images/optimized/aftereffects-c0619891.webp": {
+      "bytes": 4814,
+      "sha256": "1a723ea1e80d779d7bd841624e0bbab2c1ac39181a16a57c421d8be4038c8b3a"
+    },
+    "Images/optimized/armin-van-buuren-40339157.webp": {
+      "bytes": 19932,
+      "sha256": "7e5232417bb94414ea9dacb8a8badbb781c712483e6b8f0800687811272b07db"
+    },
+    "Images/optimized/asterix-60cf811e.webp": {
+      "bytes": 87420,
+      "sha256": "daefcbb7a5b62b08d4fb80115b2fc8088c9f5660c1faf3cbcbeec8f9a7d8a864"
+    },
+    "Images/optimized/babalos-a23986c3.webp": {
+      "bytes": 39332,
+      "sha256": "74ba7343eab83c5cc63711fc41bf804bdb847791ea32b3f039b0297f430a6360"
+    },
+    "Images/optimized/background-skills-51508abf.webp": {
+      "bytes": 198084,
+      "sha256": "9ca70c3d5a249b7d88164ef4bb1dad43059e3944d44786c0abc7acf40fced9ef"
+    },
+    "Images/optimized/batman-arkham-knight-logo-35fe8077.webp": {
+      "bytes": 41148,
+      "sha256": "6d286c7b7513b95c684c9de63f9f846f21bda22e66a802b03b162c5d5eea3129"
+    },
+    "Images/optimized/batman-background-d41cb169.webp": {
+      "bytes": 1054416,
+      "sha256": "f518fc786af684d88c685e17671a34be26183b6a6e9dcb91c3023c235a5197f4"
+    },
+    "Images/optimized/battlefield-background-decf5fe2.webp": {
+      "bytes": 73442,
+      "sha256": "17f907f6f6dadee72734024c52afb4e4299607efa78fea06bff319a7be38d266"
+    },
+    "Images/optimized/battlefield-logo-51fee91b.webp": {
+      "bytes": 50122,
+      "sha256": "43f21698fe3ab5ec195a329478d98af80445ec829c47f9ebb659a0e1e4dcf325"
+    },
+    "Images/optimized/berserk-symbol-83afb033.webp": {
+      "bytes": 4120,
+      "sha256": "12dd48067b0e8a18445807462e9aa2b2f4ebacda8d6569e980ca742e0a289715"
+    },
+    "Images/optimized/bioshock-84b3b675.webp": {
+      "bytes": 20806,
+      "sha256": "6d032349188db117387955c0f081819bf74be3ae2572d486d1c022e193db474a"
+    },
+    "Images/optimized/bioshock-e62e91ee.webp": {
+      "bytes": 20806,
+      "sha256": "6d032349188db117387955c0f081819bf74be3ae2572d486d1c022e193db474a"
+    },
+    "Images/optimized/biziboy-logo-01-3f91a17b.webp": {
+      "bytes": 46984,
+      "sha256": "c734791c8b9bf1f2a368430cf35331a2fc3600f6d13a15dd51f89dde2ce2ec22"
+    },
+    "Images/optimized/bleach-bddca344.webp": {
+      "bytes": 9390,
+      "sha256": "46dd4908a49c30836d31de6f703f522ee250343a6cd8b42a34b72a631b5c10cb"
+    },
+    "Images/optimized/books-icon-14606f10.png": {
+      "bytes": 2247,
+      "sha256": "725b0a4ce8e3e55b68b0a3a60cb980dfecdbf45e09800d90cf68dfa75dc082e5"
+    },
+    "Images/optimized/bootstrap-a49b65ec.webp": {
+      "bytes": 14222,
+      "sha256": "67e093e0c5d677d1212ca16124265feb88eb42740f55d65f6e80491c7a162fcb"
+    },
+    "Images/optimized/call-of-duty-background-0e545081.webp": {
+      "bytes": 55946,
+      "sha256": "1b14aa4222862bcd132931bb6b9e2be0b14438735dc97639ca3ee4ec24de8aa8"
+    },
+    "Images/optimized/certificate1-4145c312.webp": {
+      "bytes": 201048,
+      "sha256": "13bbb633a674f2ed37eb28d85403fbafcc4aa127b4f30da613519371f2ed35bb"
+    },
+    "Images/optimized/certificate2-a24c85c3.webp": {
+      "bytes": 129292,
+      "sha256": "69c0389624ad55a287423a6bd0d32f12e5c15cdd81343fa7f0a3f2bbb6ea3a90"
+    },
+    "Images/optimized/certificate3-812d181e.webp": {
+      "bytes": 157248,
+      "sha256": "439a5a8fdbb3300801f78965cb2f90d46eb5be5c2f35696b4d517c6222022744"
+    },
+    "Images/optimized/certificate4-d2f19369.webp": {
+      "bytes": 174242,
+      "sha256": "e020f0997a817b85680fa8ffedf171a4ed52b8c9fd510a0cc9109b9fa40ec183"
+    },
+    "Images/optimized/certificate5-624051c3.webp": {
+      "bytes": 139962,
+      "sha256": "ce36ba81b5dcf6027e5400b9be9301fb114f3c56898846c57d9e531239a54aae"
+    },
+    "Images/optimized/certificate6-c5f71e16.webp": {
+      "bytes": 146238,
+      "sha256": "360e76ea1dd8740449ef4c97ac52da60daad4489ddc12bc19b53fd7f434a36c6"
+    },
+    "Images/optimized/certificate8-62658542.webp": {
+      "bytes": 131692,
+      "sha256": "17cc23b6cedf1a9d15aa441f7ba53bac6b2a2b44f04f29d4e6d264929c873a19"
+    },
+    "Images/optimized/channel-icon-2528a059.png": {
+      "bytes": 2583,
+      "sha256": "931437796b6dbad30695535e5acc317e9bb6391915e40fde929dd4b2071726b1"
+    },
+    "Images/optimized/channel-icon-f0d4e91e.webp": {
+      "bytes": 39606,
+      "sha256": "e46d74b5b7a1e5192095d85d130283883c232c8d03ead1e70bb3ca81d228d532"
+    },
+    "Images/optimized/cpp-logo-597a300c.webp": {
+      "bytes": 20286,
+      "sha256": "c6cd118925c5df41bc7c75ece5fea88dda4bcba8e6c20c845fe0fb5d816e7828"
+    },
+    "Images/optimized/css3-d7de42e4.webp": {
+      "bytes": 19920,
+      "sha256": "7d66eb34073815741c41156404aeb7fe900e9caff8206e3c6ebd8915dfc0ec58"
+    },
+    "Images/optimized/cyberpunk-background-3cc62c45.webp": {
+      "bytes": 274532,
+      "sha256": "25339756bd2520b37d9fd7c6fcf0a6c97ce2d53218d788668560d9be66e1111f"
+    },
+    "Images/optimized/daft-punk-4b2abee7.webp": {
+      "bytes": 48178,
+      "sha256": "b66c2f46242dba62cfe3f82ad92ffe85e446310f99fd1e211f9e99e153667369"
+    },
+    "Images/optimized/days-gone-background-0a2fb62c.webp": {
+      "bytes": 347006,
+      "sha256": "6eb0243ababedd74321565363d309204bb20fb3b68b51c5e7b9838d636279f78"
+    },
+    "Images/optimized/days-gone-e757fefa.webp": {
+      "bytes": 8424,
+      "sha256": "6fca835d44dd692854e5d82764dfae2a1e003b8bdf27fa21d40cf51dd536d64b"
+    },
+    "Images/optimized/deadmau5logo-3e2f4d39.webp": {
+      "bytes": 3732,
+      "sha256": "9bc06674ee8f007a0043029fcae7423dfb62503399984299effbd65f6172979c"
+    },
+    "Images/optimized/deathly-hallows-sign-svg-795ddc29.webp": {
+      "bytes": 10588,
+      "sha256": "2e267e117a1ea8b60d651e494ebe57fe083d82428bc286c57027f2e2e75a4225"
+    },
+    "Images/optimized/delta-force-367c994f.webp": {
+      "bytes": 9736,
+      "sha256": "9b3c2111940b6a0b2f6e7871006d43300d514f59629c688c1230d2d7b1907180"
+    },
+    "Images/optimized/delta-force-icon-2b06f197.webp": {
+      "bytes": 15224,
+      "sha256": "bb48d4240a4833d9f4d674fc0cff0d1bdeed961a17eb845bbc3e103ae96a7b2e"
+    },
+    "Images/optimized/demon-slayer-988ba247.webp": {
+      "bytes": 36048,
+      "sha256": "8c2e02fbbfb43cdeb4894bfe5670d25d6471f854c4410445ca169b2e5633c7da"
+    },
+    "Images/optimized/design-background-9197cb1f.webp": {
+      "bytes": 429046,
+      "sha256": "e3c0524c4d3f0d1198b97efe8748abc6f2c31a51d1b78b39171e8510e6e65578"
+    },
+    "Images/optimized/design-banner-51fd47d8.webp": {
+      "bytes": 1776528,
+      "sha256": "13b7f929e2534bbff1fe1ba594960aa26fce0ef90e96e03494abcbfe9003f36a"
+    },
+    "Images/optimized/design-bg2-1ad8500d.webp": {
+      "bytes": 55764,
+      "sha256": "8aee5c726629684dbf8ed6d12113a05700e93a095fc5a79434c8447fac8c7af9"
+    },
+    "Images/optimized/design-icon-d0e61b37.png": {
+      "bytes": 2642,
+      "sha256": "d0dde43cb8a8a1f39d909a17a271bd930d9bf292148cb92f5712c60953b1ef33"
+    },
+    "Images/optimized/divergent-f8948f27.webp": {
+      "bytes": 33220,
+      "sha256": "f4c321b3685828a5a0829d130700e17318a775f98d27abbd7787e754e4395006"
+    },
+    "Images/optimized/doom-eternal-dec4ee6c.webp": {
+      "bytes": 33538,
+      "sha256": "f8dde54b2e21ec614f6e061f7df58634c589df970b272a716a459921edfba4a5"
+    },
+    "Images/optimized/doom-eternal-logo-1ad297cb.webp": {
+      "bytes": 65778,
+      "sha256": "a2f6ffb42642165b49172345198c71c38b55ef9822af975e4f6eaaebf5fbd67e"
+    },
+    "Images/optimized/download-030ca75e.webp": {
+      "bytes": 441560,
+      "sha256": "6351ad62906a4784c851ef05dac52a8763e7c852bf9b27aedd97535395bb0ffc"
+    },
+    "Images/optimized/dr-slump-svg-3a1d1857.webp": {
+      "bytes": 19318,
+      "sha256": "a364e7eb279db8a4a196a17ae02cb77186da686aedc2b1f2387a06cb8a4e3e5b"
+    },
+    "Images/optimized/dragon-ball-background-71726c8b.webp": {
+      "bytes": 106506,
+      "sha256": "6487b4d22dfcb418fd1c02ca976cf8cb0b533f759ef2c6409b0f65d80bb57d03"
+    },
+    "Images/optimized/dragon-ball-logo-3a471c41.webp": {
+      "bytes": 93074,
+      "sha256": "5951c33b7fc325dbbec18efcd6f7e18eb8814f903f85083a6b58658661d67422"
+    },
+    "Images/optimized/dragon-ball-super-logo-b48fd4c3.webp": {
+      "bytes": 73874,
+      "sha256": "4e766ee411268a384de0f1e907df8a8c42109133d6d09e9cdbe6bab61b170add"
+    },
+    "Images/optimized/dying-light-77b80e33.webp": {
+      "bytes": 26042,
+      "sha256": "ee16a1c0d5f155760553c96fbf25aa007a6b40c8bdfeba674dcacfa07b2f5de0"
+    },
+    "Images/optimized/dying-light-aaae6dab.webp": {
+      "bytes": 26042,
+      "sha256": "ee16a1c0d5f155760553c96fbf25aa007a6b40c8bdfeba674dcacfa07b2f5de0"
+    },
+    "Images/optimized/education-banner-c141bafe.webp": {
+      "bytes": 30114,
+      "sha256": "fc51caca2a03facf739b48c1f7d2247cb8ffe84ae108e2b11219b92fc38bfa86"
+    },
+    "Images/optimized/education-bg-0cc829c9.webp": {
+      "bytes": 177750,
+      "sha256": "83263c7c64499e61e0a7b5c60ed4b14be4df18abdc93333aa4eee358999f5bdb"
+    },
+    "Images/optimized/education-edcc6582.png": {
+      "bytes": 2032,
+      "sha256": "aeda944c358c1e3d6f7dd4f5c3ea5242e4343dd13ae109ee1c61665208f0912a"
+    },
+    "Images/optimized/empty-cart2-01-6cf81c56.webp": {
+      "bytes": 28624,
+      "sha256": "8421a446f0bc04cc4cdf8f47dc5656e2fac4c17f71f58bbd4f1b8afd168c77bb"
+    },
+    "Images/optimized/eotd-e06ea4dc.webp": {
+      "bytes": 62718,
+      "sha256": "c49b9a2b0ea9e5a03e12e66903506cfc7102550313ab7d189501572deddc5157"
+    },
+    "Images/optimized/experience-background-976660ee.webp": {
+      "bytes": 17366,
+      "sha256": "92e56a14a8a0f3beb7626fd9fd01eee611a56df793a6ab3c12b72aa931ed5fa0"
+    },
+    "Images/optimized/experience-banner-0e7ce02d.webp": {
+      "bytes": 29054,
+      "sha256": "636d9ff80aadb04a8850c90db0140a5a926561e28262f07960040a90c7f505ed"
+    },
+    "Images/optimized/facebook-3f4c5b7f.webp": {
+      "bytes": 4492,
+      "sha256": "166b6b45778e57a5ee73bbc203c82e42335b35ed7dfa6295f4fc9afd93c78b48"
+    },
+    "Images/optimized/fallout-4-50ecec92.webp": {
+      "bytes": 18134,
+      "sha256": "08910927835638788ce557c9cea3470f8d79e3af13c708ef38aaaf962833818d"
+    },
+    "Images/optimized/fallout-logo-2bf495be.webp": {
+      "bytes": 239968,
+      "sha256": "698c5d12a7955f1b2564dba3f4c6def415f19629f0e34ca00aaeb99e079036e9"
+    },
+    "Images/optimized/far-cry-background-e2c7f863.webp": {
+      "bytes": 279132,
+      "sha256": "625c19da33f18112f6e94243600f6ed9c257ec3b0e982655af4de02791ca97d0"
+    },
+    "Images/optimized/far-cry-logo-ffbf2e34.webp": {
+      "bytes": 57974,
+      "sha256": "e99244b4c25ec743b0b64a7b7954a0bf54dd7ca904786d0c4136e63d41628524"
+    },
+    "Images/optimized/flight-simulator-52d5ba60.webp": {
+      "bytes": 24694,
+      "sha256": "6f301ab14f6486a2bc38cef742bdef5a930c53ab1aa828906ba6ac54dc01beab"
+    },
+    "Images/optimized/flight-simulator-857c9fbb.webp": {
+      "bytes": 24694,
+      "sha256": "6f301ab14f6486a2bc38cef742bdef5a930c53ab1aa828906ba6ac54dc01beab"
+    },
+    "Images/optimized/fma-fd10f42d.webp": {
+      "bytes": 6120,
+      "sha256": "f16c8a42e6020e0486d86cdfdc0b50925a85e6043a928ba989169e250310db88"
+    },
+    "Images/optimized/food-champ-2608fa9d.webp": {
+      "bytes": 65320,
+      "sha256": "7c7c6aa8effc2fc40fce9295a37df89865c1d044e00d8bdb409b3e72b9984bfe"
+    },
+    "Images/optimized/forza-horizon-background-151e65ec.webp": {
+      "bytes": 365100,
+      "sha256": "c47bb737893adfed4d84f55739795798429c2febd7f2791625a06579caf09c89"
+    },
+    "Images/optimized/ft-7c8d4a94.webp": {
+      "bytes": 37008,
+      "sha256": "77ba898cdbb265668754c4a70cf669afb580661c9afb49979b20bd0f45a0b013"
+    },
+    "Images/optimized/full-piz-ing-7c45bc55.webp": {
+      "bytes": 45258,
+      "sha256": "761640e0990ea53b70b1b0a94871514eb1d7ddbf743309a28d08b049a1480d45"
+    },
+    "Images/optimized/gaming-icon-d4b37b14.png": {
+      "bytes": 2609,
+      "sha256": "f87eb3ba191485942b9515d6dc60ac68b029c4884db9a370b70f57dbacc11413"
+    },
+    "Images/optimized/gaming-jumbo-8b30da00.webp": {
+      "bytes": 44192,
+      "sha256": "216f43ca22a738288dd4dcbb908101a167abb4a83ccf09c0725078b4255d3094"
+    },
+    "Images/optimized/gone-85c2d3c2.webp": {
+      "bytes": 3548,
+      "sha256": "d7f440ca14248b2d3a5142e4714e5a1af65514192294369875741948de921dae"
+    },
+    "Images/optimized/gta-background-64498be9.webp": {
+      "bytes": 31742,
+      "sha256": "61c8d03f2fd5c5b2f2d883c481c26ddd066ae89c237755cd3ca54fa0afffd721"
+    },
+    "Images/optimized/gtbit-e1ec6b5c.webp": {
+      "bytes": 51802,
+      "sha256": "e4599b3adfa347485967ae3165b4fa5d7b9cd4b7e68f98e14e92a986ba1b9075"
+    },
+    "Images/optimized/headbg-af7d1e2d.webp": {
+      "bytes": 158678,
+      "sha256": "d6abcdcc6b04dae0cb42dc4427c1a89b010bda53b6a8eabbd94d50c8cb178299"
+    },
+    "Images/optimized/heroes-olympus-logo-b93d4ffb.webp": {
+      "bytes": 10444,
+      "sha256": "7e0039b0bdb6d3e22c2466b52b4e2e8be59fb3f70df5def03f07539c1b0db111"
+    },
+    "Images/optimized/html5-490c3148.webp": {
+      "bytes": 20368,
+      "sha256": "9c00bc6317665d8b63c9729d55497540200d2840510a29655eb35edbe59e4361"
+    },
+    "Images/optimized/hxh-bf7ff655.webp": {
+      "bytes": 10006,
+      "sha256": "9cae774b7e773bef02a0fba533314cee96b757443671c5cc4071d17b14c2d03b"
+    },
+    "Images/optimized/img-1683-e4a1df66.webp": {
+      "bytes": 45230,
+      "sha256": "8e154b674f36f755af84368258a123a0796e9fc4ea83479495acada448363625"
+    },
+    "Images/optimized/indexbg-44fb82fd.webp": {
+      "bytes": 41384,
+      "sha256": "d651963137e2c9167c59a8ecb370ae2db78cd7ebc84b2051a6ab771c71538a75"
+    },
+    "Images/optimized/instagram-8c0e5a61.webp": {
+      "bytes": 38930,
+      "sha256": "c2b703d2ba0eb2b5bafcd3bde714f4faaab2299d38881e4899e38ffba4771c2d"
+    },
+    "Images/optimized/internships-02-5216645c.webp": {
+      "bytes": 53378,
+      "sha256": "e7f2bc1d0ef0635ff4ae2711bcac7085a726d7f34a3459216b088cb6088de808"
+    },
+    "Images/optimized/java-03c4c35e.webp": {
+      "bytes": 24550,
+      "sha256": "7554bd13e47b7698cc2c7fe6e05799091196057f70c82bbaf96b65d3e6812f33"
+    },
+    "Images/optimized/just-cause-3-cf664c19.webp": {
+      "bytes": 33992,
+      "sha256": "5e880d5658d38229258e10f090316ba135c2f993248a0b3b5399762db2c67e6e"
+    },
+    "Images/optimized/just-cause-background-3bc0151f.webp": {
+      "bytes": 235214,
+      "sha256": "d87709c7109248b99904a2066f88a7c753720421934dcf5f0d811e6a494b4531"
+    },
+    "Images/optimized/kane-chronicles-4d9d2b8f.webp": {
+      "bytes": 53366,
+      "sha256": "9ffecf6a0216c4e82dd2d818fb7d4e8ca11476715170f224e45e446b569d3c8a"
+    },
+    "Images/optimized/kygo-28c4bee4.webp": {
+      "bytes": 3882,
+      "sha256": "9c10f121879cde6ae1ac3f11af8182039eefdac97c6dad4a6345680ad33c35d6"
+    },
+    "Images/optimized/logo-1200by630-forfbsharing-6c54f673.webp": {
+      "bytes": 9678,
+      "sha256": "ed304a28b5f2b29098de2dee73d69f11511a2f9a3168e83a3e5784bf99a1e992"
+    },
+    "Images/optimized/madhyam-logo-f6ffde14.webp": {
+      "bytes": 3964,
+      "sha256": "0faf1bfbbcd6eeb9cf9a1fcb9ee06ad630a6b7b07981f0be68938032c3547f91"
+    },
+    "Images/optimized/magnus-chase-11573da2.webp": {
+      "bytes": 10434,
+      "sha256": "718a2a0ba994eadb8078d254c6ac1613a1fea9c0746d2f00b8598f041712f3a2"
+    },
+    "Images/optimized/marsh-bac3e710.webp": {
+      "bytes": 6020,
+      "sha256": "a976e058cdd1cd60e2bd5462c9847bf73ab80dceb935b993f784182f114ce4da"
+    },
+    "Images/optimized/martin-garrix-39326c15.webp": {
+      "bytes": 24866,
+      "sha256": "ee62dd9f608e1f469d6c37eba4665d736574cb09a62c76bde6d8f75a2d64f954"
+    },
+    "Images/optimized/metro-background-e475d033.webp": {
+      "bytes": 26002,
+      "sha256": "7115e98a015b4010af13eb5c9e67fb2204df798d14b6a1c94534aaad574e0535"
+    },
+    "Images/optimized/metro-exodus-88cb2fd9.webp": {
+      "bytes": 35640,
+      "sha256": "801599d92febd22655dc4f744ad8d286c47392dfd5a879c74bafdd8a24b32025"
+    },
+    "Images/optimized/musicbg-7186a22c.webp": {
+      "bytes": 144774,
+      "sha256": "da01c94444e60536a4024765c551c869f824b1646ccb794216d623b98aade278"
+    },
+    "Images/optimized/musiclogo-1a8e1ed5.webp": {
+      "bytes": 24726,
+      "sha256": "52416c6b68c17e8516add3c1b50b367e26f46ee475dfa0b12ce0c78c15882e07"
+    },
+    "Images/optimized/musiclogo-9e5de41d.png": {
+      "bytes": 1989,
+      "sha256": "b34551f49b2be53a753dabd4431131e24df5202d48474f8aaa196b231c490b0d"
+    },
+    "Images/optimized/naruto-c0441f96.webp": {
+      "bytes": 4108,
+      "sha256": "7cc7bcb31ff2e0b0ba7b095ea651dc995e26fa7a536020d73463de0de86ff967"
+    },
+    "Images/optimized/naruto-storm-4-3d782f01.webp": {
+      "bytes": 33548,
+      "sha256": "a9feae924c933ef8d5ee1cf80cecc62eeb1738da602ca262ce07d17aff2362ac"
+    },
+    "Images/optimized/naruto-storm-background-825aa1f2.webp": {
+      "bytes": 197016,
+      "sha256": "1884278b823a29994e5f35ee6ee3d4439f8d31b09eaa35a33e598dedf6006081"
+    },
+    "Images/optimized/need-for-speed-background-da9998cf.webp": {
+      "bytes": 68142,
+      "sha256": "0a9fabbb12dc8f15313fb2d72591b38ad938a56b76b5c367909db92c19c3b726"
+    },
+    "Images/optimized/onepunchman-0d3f2c0e.webp": {
+      "bytes": 19390,
+      "sha256": "56643e2c25d37fc9eb1509a1cc756c6ffad92cd56dc0527f984b5118b57177c5"
+    },
+    "Images/optimized/op-b2260bc3.webp": {
+      "bytes": 8136,
+      "sha256": "1052bd0d0d15ae726e1e6c9c8956cf1f0b9f5438cd9663cee2b508a95ecd9a58"
+    },
+    "Images/optimized/paper-crumpled-light-shadow-1108ef31.webp": {
+      "bytes": 113834,
+      "sha256": "24f53282a12c01c317380ed384a535cfe3201dea6e94ff505b885413f3145f6d"
+    },
+    "Images/optimized/percy-jackson-6c4c69c4.webp": {
+      "bytes": 24970,
+      "sha256": "d7bb01950f77a4df1e2751a5c60b6ded8cc04834538ff2b061d15e83cb980c6e"
+    },
+    "Images/optimized/photoshop-61bf2978.webp": {
+      "bytes": 16556,
+      "sha256": "d3377e589e9bd7059ac730bfec4a3cc6ff5fd804a6806db7546b9cf282e5faa4"
+    },
+    "Images/optimized/php-640c38c5.webp": {
+      "bytes": 7534,
+      "sha256": "32c9e0eb665a08e978f5c5592b779a720798f2db909fc55388236e0c91193fcc"
+    },
+    "Images/optimized/policy-01-fd94b257.webp": {
+      "bytes": 50146,
+      "sha256": "91b9325bf1893851bba434f857c7600cec96d210a05e2041e630e8c9aab43369"
+    },
+    "Images/optimized/poster-01-8e0b2d5d.webp": {
+      "bytes": 100436,
+      "sha256": "94c4eda8a1dd4e35422619a9753fd74c7edcae88d1715278f9857329f1cd93b6"
+    },
+    "Images/optimized/premiere-4c56cfd9.webp": {
+      "bytes": 1468,
+      "sha256": "972a1afa2d91c1a1f23f0f6134d09c901bce78aab079e9bc506c5a8f342a3d8d"
+    },
+    "Images/optimized/pubg-background-e6d66e99.webp": {
+      "bytes": 210580,
+      "sha256": "1dfa4d98ab2b0b3ce670e81649fe4ab588576ee2491e0fca4d726aacf917d0a7"
+    },
+    "Images/optimized/pubg-logo-00a5c968.webp": {
+      "bytes": 1842,
+      "sha256": "388d331ee11efd017161bf0969b04c1f191a561b7d8991a74e14ed3971faf3f0"
+    },
+    "Images/optimized/python-cf83dc4e.webp": {
+      "bytes": 20466,
+      "sha256": "43da91781c77d807363481e8efad6d1eb725421a9b0a24b507282573850881d6"
+    },
+    "Images/optimized/reading-background-3995968f.webp": {
+      "bytes": 123828,
+      "sha256": "8b835fadff47c4ec892bd48b3a122796d293a45bd1a796bd4cfff59a3702b912"
+    },
+    "Images/optimized/red-dead-redemption-background-0e3775fa.webp": {
+      "bytes": 50914,
+      "sha256": "0fed10e759cce78b5cd0d50434c543e67bf97069c0fe60fa24c1dd9f44a69357"
+    },
+    "Images/optimized/red-dead-redemption-logo-570dfd32.webp": {
+      "bytes": 57954,
+      "sha256": "df2b6fd8ebc49bacfca42f4e29a7f08c969488b4d6a56a0eb4af49370b9e0383"
+    },
+    "Images/optimized/rezz-2c314c89.webp": {
+      "bytes": 11732,
+      "sha256": "9b4769d0cfacda4fa8e2f20ef01bc611e7c1dff3ad150fd677560cc2017ce535"
+    },
+    "Images/optimized/russ-a68909f0.webp": {
+      "bytes": 9382,
+      "sha256": "001c1b7bf03223fb83b04039baf55090fecc3aad8331b62fbf0d0f7a209a09be"
+    },
+    "Images/optimized/screenshot-2023-12-05-103002-2755b8c5.webp": {
+      "bytes": 279752,
+      "sha256": "a54300b7ad17e62954d7d99943ea0e7d995d1ee616a9faa452d7e300d222be52"
+    },
+    "Images/optimized/sherlock-c84f3447.webp": {
+      "bytes": 5102,
+      "sha256": "e12e7a403be686174d9403a17944aaa4dfa31dc9c0cacd110e053d69c81e46e7"
+    },
+    "Images/optimized/skills-66c87c63.png": {
+      "bytes": 2416,
+      "sha256": "fd7b0af2ec1004ea84774b2d5fcbc4350459f18b780f30dc0fc9dc92ee9157a8"
+    },
+    "Images/optimized/sniper-elite-background-6704f309.webp": {
+      "bytes": 261222,
+      "sha256": "aeb9d7fc97db41232d262c2f44e29e9211838089e826e30df744e6214f0649bc"
+    },
+    "Images/optimized/sniper-elite-logo-9267b4dd.webp": {
+      "bytes": 26990,
+      "sha256": "8e007563be02cfbdc6737b1f2e19ae33a0fe562244cc1efb2a5eeb10b6945aac"
+    },
+    "Images/optimized/steam-3310d45a.webp": {
+      "bytes": 28684,
+      "sha256": "3adecc3e3f0053213b4109d378ad4d29b76b2d242c4fe3948081e9f24b91bafb"
+    },
+    "Images/optimized/task2-4d9f0cdf.webp": {
+      "bytes": 35622,
+      "sha256": "ea0467eb0dda6396dcbc90ddabbd43f7f26c0459f7de22b492af27cc01a7bbf9"
+    },
+    "Images/optimized/teachersday16-3620670d.webp": {
+      "bytes": 92644,
+      "sha256": "c8e7a48b9ca3ba5a6a7cc9846991c0394d2d97691d0ba87dc44a830b53603118"
+    },
+    "Images/optimized/teaching-bg-85b9ed0c.webp": {
+      "bytes": 55962,
+      "sha256": "455541ad21a1e30e307a37c3da56343122f2be9fce23ad404703ad3315e94015"
+    },
+    "Images/optimized/the-chronicles-of-narnia-logo-33e0b5b9.webp": {
+      "bytes": 58440,
+      "sha256": "31ff10fe3be6acf011421ae9e7072947f8bb980a1a90577761dca7fd4361b915"
+    },
+    "Images/optimized/the-fault-in-our-stars-logo-cdf3520b.webp": {
+      "bytes": 20632,
+      "sha256": "b04ffe884da24fa5e18b895d0296d59b4fc00b0630c22074bad9ca582673a961"
+    },
+    "Images/optimized/the-trials-of-apollo-logo-8572ebeb.webp": {
+      "bytes": 8976,
+      "sha256": "59b798f059b9e1bd8487d8abe26a800153ad338abf5af4a05e26b965df9a0efa"
+    },
+    "Images/optimized/tin-044d8e55.webp": {
+      "bytes": 48734,
+      "sha256": "0af1d81abd8c572d2f2522b8e5aa07db23d7a5c729f7a5008f40e52f24eb29f8"
+    },
+    "Images/optimized/tintin-4c89bf4a.webp": {
+      "bytes": 5116,
+      "sha256": "b8d7df542157a88591eddabc1776518ac00a2e4cfe5a6a901279f5c58af62a5b"
+    },
+    "Images/optimized/titanfall-2-d4bc3729.webp": {
+      "bytes": 33464,
+      "sha256": "91e879b6997cc48bda5c71e95d7c6f7821c700897f7e4bc5b3f6ef7c1868c452"
+    },
+    "Images/optimized/titanfall-background-62162aa3.webp": {
+      "bytes": 146986,
+      "sha256": "d34f113bb19cda1b5812b1bf1fe7459c8ff07934010b3934810820553278daa5"
+    },
+    "Images/optimized/tokyoghoul-921724c0.webp": {
+      "bytes": 22468,
+      "sha256": "fb2279cada5c612137e93cd1506eb01b7744a78ace67270920ee569d46c8aa7a"
+    },
+    "Images/optimized/twd-d10ad600.webp": {
+      "bytes": 17968,
+      "sha256": "5dce9da6cf93904a51c81a2adf94f09bc6ca736d54e4e57ffb873f22d836759f"
+    },
+    "Images/optimized/undercover-1d3e4e2b.webp": {
+      "bytes": 17230,
+      "sha256": "5ff5429519e33c3e3080be0145a7821114a79af82d88b970ea7f19ef9587d967"
+    },
+    "Images/optimized/vini-vici-6afc8e79.webp": {
+      "bytes": 5806,
+      "sha256": "ef064047b56f05c42ed8565818f46e42f083956bb768ac058be46db3efdbc360"
+    },
+    "Images/optimized/wolfenstein-background-5a485bfb.webp": {
+      "bytes": 72626,
+      "sha256": "d0875b77851659c4e6489b5a8c30d3fab5d576958fffd587b944000879124897"
+    },
+    "Images/optimized/wolfenstein-logo-9c047ffc.webp": {
+      "bytes": 6936,
+      "sha256": "889a9ee9604acd4ed08f3b5d191e5bf6ce4fbad3be3f1f405ec79f94e956d0bc"
+    },
+    "Images/optimized/zhu-2d6219c7.webp": {
+      "bytes": 9676,
+      "sha256": "e3c3c0b736f1f9451287510e788d776b252d72ca5b1b42c7c9fa7d32e6a0f943"
+    },
+    "Images/site-assets/attack-on-titan-logo.svg": {
+      "bytes": 14001,
+      "sha256": "3dbf9c850cfa8faa769c378bc2bd797f3676a17482a72b39b4ad208d2ebef892"
+    },
+    "Images/site-assets/call-of-duty-logo.png": {
+      "bytes": 48831,
+      "sha256": "4d78972060acd5476e8549738343b2fdbfa685b61df4a961e811bf32f50a78cf"
+    },
+    "Images/site-assets/cyberpunk-logo.svg": {
+      "bytes": 251798,
+      "sha256": "f9a1b05984999135be279fcfa7bfaf2422b620707d5b18993aaf66e255a9f97a"
+    },
+    "Images/site-assets/gta-logo.svg": {
+      "bytes": 3547,
+      "sha256": "17cdf2e1fea8cf37ab3f8050d8a7d9328f27f74a10795b0b01d234b81da2d052"
+    },
+    "Images/site-assets/mail-icon.svg": {
+      "bytes": 1516,
+      "sha256": "efdc17e5ecac19868c0de6f7465c447d9a1189aa48d03d2d33c48655aa5cafba"
+    },
+    "Images/site-assets/my-hero-academia.png": {
+      "bytes": 50220,
+      "sha256": "5219956c1f5f4cdbeac37a5b3da068907d927941fb18c41ad6eb7c130cba9592"
+    },
+    "Images/site-assets/nfs-logo.svg": {
+      "bytes": 4491,
+      "sha256": "5af3ac76b44142d7e6e0ceab9ca940b7a1b5603989a8e04d94232ff85110d246"
+    },
+    "Images/site-assets/promised-neverland.png": {
+      "bytes": 41369,
+      "sha256": "74478b8256493e0f8b415c2da60280886429435ab088e91316d255fb517b3e04"
+    },
+    "Images/skillsbanner2.png": {
+      "bytes": 58796,
+      "sha256": "cc01eea12ce99089a2f09cd38cb42bab9dac471eef7243e8fbd6b499b3003ace"
+    },
+    "Images/youtube.png": {
+      "bytes": 7858,
+      "sha256": "1c5508fec8820bbbe6cbcb8a88149a25ce5a80fbfaf362810b7850fa9c3cc3ad"
+    },
+    "Music/01) Armin van Buuren feat. Miri Ben-Ari - Intense.mp3": {
+      "bytes": 21076380,
+      "sha256": "e9c30db995f154547d75781266193867ff1c53eae0d776747b82145bbc76e617"
+    },
+    "Music/Babalos - Snow crystal 185 bpm.mp3": {
+      "bytes": 8521489,
+      "sha256": "1546b762463a0ee8ad73e6c004a86105d543ce2b8e6db761ed1d6b47926bb70d"
+    },
+    "Music/Daft Punk (feat. Julian Casablancas) - Instant Crush [Random Access Memories].mp3": {
+      "bytes": 8091408,
+      "sha256": "9852946f26867949abe52e6af23166147b261a6965fd2b51d89e786d784704fe"
+    },
+    "Music/Deadmau5 - Strobe [HD].mp3": {
+      "bytes": 15265470,
+      "sha256": "c6a133168263b9cabace49140c739ce06e41ecb7ff0163b4781db15e84392aea"
+    },
+    "Music/Kygo - Firestone Feat. Conrad.mp3": {
+      "bytes": 11004536,
+      "sha256": "bd9849a62803ced246fb9ac1ff7744cff2c98b5609bc6314fc15ec1ec3891bc4"
+    },
+    "Music/Marshmello - Alone.mp3": {
+      "bytes": 10997401,
+      "sha256": "7be9994e61e269da89a2a0ef84cedec4f7d176ddbdf770f48c4633241e1ebffb"
+    },
+    "Music/Martin Garrix - Animals (Original Mix).mp3": {
+      "bytes": 7320274,
+      "sha256": "76848189910f2fdde790ce3db56352f299c3638c397c2ecae3fa96915b5cf723"
+    },
+    "Music/Rezz - Fourth Impact.mp3": {
+      "bytes": 9711574,
+      "sha256": "f2a9582674e18d6ce2ad18d9062d3a15bc06b10cdc5aaf8b98ca588f4bf7f826"
+    },
+    "Music/Russ - Pull The Trigger (Official Video).mp3": {
+      "bytes": 3790608,
+      "sha256": "732338cc833bbfefee05d7ad628afe9767d2c41a2c04afe16c84b6b4cbcc0e61"
+    },
+    "Music/UnderCover - Imaginary Friends.mp3": {
+      "bytes": 10346508,
+      "sha256": "4dcb5ba47399c81566926c462c910850fe12a39ea4d170f7e28705b588dfc828"
+    },
+    "Music/Vini Vici - Ravers Army.mp3": {
+      "bytes": 10682547,
+      "sha256": "c91a926a426839cd443070b94fd825af87c1e9b79fd8cee17837add5c0b09590"
+    },
+    "Music/Zhu - In The Morning.mp3": {
+      "bytes": 11845250,
+      "sha256": "42e718b8c93def775085643c8b9a51b8803ad23d0dfaa832e90c7183cdf28fba"
+    },
+    "designing.css": {
+      "bytes": 245,
+      "sha256": "ae01bffd570dc9ae1894a28c96300390c90c95567aacc45b52a773d34f6fb7fd"
+    },
+    "designing.html": {
+      "bytes": 14832,
+      "sha256": "191e1708e1ec3bb87dd0dcbe2a2da8bb27d44604d8f7bc83d8d4d6fa31113bd7"
+    },
+    "education.html": {
+      "bytes": 12916,
+      "sha256": "30a05d678eda499a8c71d8e9537c1de9546291929761058c4528c5079b422c08"
+    },
+    "educationstyle.css": {
+      "bytes": 422,
+      "sha256": "cd990bc2eeb22e2a199acfac24a39b5dc8323f1a8a374e4eeecdee7705d0d025"
+    },
+    "gaming.css": {
+      "bytes": 9556,
+      "sha256": "1d5615bc5ef63747ce4964e384e2806512e7129a7693397fe30fa650b1691eb5"
+    },
+    "gaming.html": {
+      "bytes": 18735,
+      "sha256": "45bf5d220959e74bb58af698c6b9780931ca65efd7fbd42b5a91261bbe4ea53d"
+    },
+    "index.css": {
+      "bytes": 1728,
+      "sha256": "fe8cb3c60e3812da9edec0b414dd92d7ca7f11b539fd9d790aa0b07a7c707eb5"
+    },
+    "index.html": {
+      "bytes": 12952,
+      "sha256": "c400fc48cadf28838b8f81a622869d60f071bc7239645b2e21a303eda81b83f7"
+    },
+    "music.css": {
+      "bytes": 571,
+      "sha256": "4c624dddc8b4ef2ae8a9c25ff46606d89ea7b1d8d9f3dbced9cbab9f7da9b739"
+    },
+    "music.html": {
+      "bytes": 13013,
+      "sha256": "0d06c177f4720d7f4a5d12ae062706c6b521772ed05785f11fe9bc627ed11832"
+    },
+    "music.js": {
+      "bytes": 417,
+      "sha256": "94c558142bf0d2498d8cf0dd3026d44d6df01d8be585f0f2540b7c150a84681d"
+    },
+    "reading.css": {
+      "bytes": 420,
+      "sha256": "08f3f92ad7b21ba45c012b380f7e891fb5b18e8c0ed3dea25bd475dc6c7945ac"
+    },
+    "reading.html": {
+      "bytes": 46212,
+      "sha256": "95307f9c787b8bc6551b16bc1884f9f50a4153258b65d2a10bc553a50089e9cc"
+    },
+    "skills.css": {
+      "bytes": 797,
+      "sha256": "5c7dc380d4095cca58e56afba5fde700645f58f28a2cd3b872e90831f561256d"
+    },
+    "skills.html": {
+      "bytes": 18035,
+      "sha256": "46bb0677485baa82b92a8aa5ed08b1e16432a18eecb6703608110ab0d4eecf8e"
+    },
+    "workex.css": {
+      "bytes": 840,
+      "sha256": "2eaaf5b77f4f11a87718dc632267591f453916b7c621f31e9d30147d6f9ef00a"
+    },
+    "workex.html": {
+      "bytes": 15180,
+      "sha256": "c8b3bf324d1d819c5acd4c242c7c276b86ad88b918fff940ea0fa8f3c3fcadf4"
+    }
+  },
+  "external_urls": [
+    "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js",
+    "https://code.jquery.com/jquery-3.3.1.slim.min.js",
+    "https://en.wikipedia.org/wiki/Assassination_Classroom",
+    "https://en.wikipedia.org/wiki/Asterix",
+    "https://en.wikipedia.org/wiki/Berserk_(manga)",
+    "https://en.wikipedia.org/wiki/Bleach_(manga)",
+    "https://en.wikipedia.org/wiki/Death_Note",
+    "https://en.wikipedia.org/wiki/Demon_Slayer%3A_Kimetsu_no_Yaiba",
+    "https://en.wikipedia.org/wiki/Divergent_(novel)",
+    "https://en.wikipedia.org/wiki/Dr._Slump",
+    "https://en.wikipedia.org/wiki/Dragon_Ball",
+    "https://en.wikipedia.org/wiki/Dragon_Ball_Super",
+    "https://en.wikipedia.org/wiki/Fairy_Tail",
+    "https://en.wikipedia.org/wiki/Fullmetal_Alchemist",
+    "https://en.wikipedia.org/wiki/Gone_(novel_series)",
+    "https://en.wikipedia.org/wiki/Harry_Potter",
+    "https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter",
+    "https://en.wikipedia.org/wiki/Magnus_Chase_and_the_Gods_of_Asgard",
+    "https://en.wikipedia.org/wiki/My_Hero_Academia",
+    "https://en.wikipedia.org/wiki/Naruto",
+    "https://en.wikipedia.org/wiki/One-Punch_Man",
+    "https://en.wikipedia.org/wiki/One_Piece",
+    "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians",
+    "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+    "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars",
+    "https://en.wikipedia.org/wiki/The_Heroes_of_Olympus",
+    "https://en.wikipedia.org/wiki/The_Kane_Chronicles",
+    "https://en.wikipedia.org/wiki/The_Promised_Neverland",
+    "https://en.wikipedia.org/wiki/The_Trials_of_Apollo",
+    "https://en.wikipedia.org/wiki/The_Walking_Dead_(comic_book)",
+    "https://en.wikipedia.org/wiki/Tintin_(character)",
+    "https://en.wikipedia.org/wiki/Tokyo_Ghoul",
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
+    "https://steamcommunity.com/id/shaurya609/",
+    "https://www.facebook.com/shaurya.mathur.71",
+    "https://www.instagram.com/shaurya007/",
+    "https://www.youtube.com/channel/UC4-tBPLvJviGeZUPGDt_etQ?view_as=subscriber"
+  ]
+}

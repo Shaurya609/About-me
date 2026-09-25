@@ -1,363 +1,132 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
-    <link rel="icon" type="image/jpg" href="Images/optimized/gaming-icon-d4b37b14.png">
-    <link rel="stylesheet" href="gaming.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script defer src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-    </script>
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
-    </script>
-    <script defer src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
-    </script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Gaming</title>
-    <style>
-        .dropdown-item.active,
-        .dropdown-item:active {
-            background-color: gray;
-        }
-
-        .dropdown-item {
-            color: black;
-        }
-    </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gaming - Shaurya Mathur</title>
+<meta name="description" content="The personal portfolio of Shaurya Mathur. Explore my work, skills and the interests that keep me curious.">
+<link rel="icon" type="image/png" href="Images/optimized/channel-icon-2528a059.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&amp;family=Public+Sans:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site.css">
+<script defer src="site.js"></script>
 </head>
-
-<body class="container-fluid">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Shaurya Mathur</a>
-        <button class="navbar-toggler" type="button" data-toggle="col-sm-3lapse" data-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="col-sm-3lapse navbar-col-sm-3lapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="index.html">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="education.html">Education</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="skills.html">Skills</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="workex.html">Work Experience</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="designing.html">Designs</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#">Hobbies</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="reading.html">Reading</a>
-                        <a class="dropdown-item active" href="#">Gaming</a>
-                        <a class="dropdown-item" href="music.html">Music</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </nav>
-    <div class="jumbotron text-center">
-        <h1 class="display-3 text-white">Gaming</h1>
-    </div>
-    <div class="row">
-        <div class="col-sm-3">
-            <div id="PUBG" class="card h-100">
-                <img style="width: 70%;" src="Images/optimized/pubg-logo-00a5c968.webp"
-                    class="card-img-top img-fluid mx-auto d-block" alt="PUBG" decoding="async" width="452" height="452">
-                <div class="card-body">
-                    <h1 class="card-title">Playerunknown's Battlegrounds</h1>
-                    <p class="card-text" style="font-size: 30px; font-weight: 600;">Battle Royale</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="eternal" class="card h-100">
-                <img src="Images/optimized/doom-eternal-logo-1ad297cb.webp" class="card-img-top"
-                    alt="..." decoding="async" width="860" height="615">
-                <div class="card-body" style="margin-top: 7%;">
-                    <h1 class="card-title text-white">Doom Eternal</h1>
-                    <p class="card-text text-white">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="daysgone" class="card h-100">
-                <img src="Images/optimized/days-gone-e757fefa.webp"
-                    class="card-img-top" alt="..." decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-body" style="margin-top: 40%;">
-                    <h1 class="card-title">Days Gone</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="COD" class="card h-100">
-                <img style="width: 90%;"
-                    src="Images/site-assets/call-of-duty-logo.png"
-                    class="card-img-top d-block mx-auto" alt="..." decoding="async" loading="lazy" width="700" height="394">
-                <div class="card-body text-white" style="margin-top: 30%;">
-                    <h1 class="card-title">Call Of Duty Series</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br>
-    <div class="row">
-        <div class="col-sm-3">
-            <div id="battlefield" class="card h-100">
-                <img style="width: 90%;" src="Images/optimized/battlefield-logo-51fee91b.webp" alt=""
-                    class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="1920" height="1080">
-                <div class="card-body text-white" style="margin-top: 30%;">
-                    <h1 class="card-title">Battlefield Series</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="deltaforce" class="card h-100">
-                <img style="width: 60%;"
-                    src="Images/optimized/delta-force-icon-2b06f197.webp"
-                    alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="256" height="256">
-                <div class="card-body text-white" style="margin-top: 20%;">
-                    <h1 class="card-title">Delta Force</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="gta" class="card h-100">
-                <img style="width: 80%;"
-                    src="Images/site-assets/gta-logo.svg"
-                    alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy">
-                <div class="card-body text-white" style="margin-top: 15%;">
-                    <h1 class="card-title">Grand Theft Auto</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="metro" class="card h-100">
-                <img style="width: 70%;"
-                    src="Images/optimized/metro-exodus-88cb2fd9.webp" alt=""
-                    class="card-img-top mx-auto d-block" style="padding: 5%;" decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-body text-white" style="margin-top: 10%;">
-                    <h1 class="card-title">Metro Series</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br>
-    <div class="row">
-        <div class="col-sm-3">
-            <div id="batman" class="card h-100">
-                <img src="Images/optimized/batman-arkham-knight-logo-35fe8077.webp"
-                    alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="669" height="367">
-                <div class="card-body text-white" style="margin-top: 10%;">
-                    <h1 class="card-title">Batman Arkham Knight</h1>
-                    <p class="card-text">Single Player Adventure</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="cyberpunk" class="card h-100">
-                <img style="margin-top: 10%; width: 95%;"
-                    src="Images/site-assets/cyberpunk-logo.svg"
-                    alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy">
-                <div class="card-body text-white" style="margin-top: 40%;">
-                    <h1 class="card-title">Cyberpunk 2077</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="dyinglight" class="card h-100">
-                <img src="Images/optimized/dying-light-aaae6dab.webp" alt="Dying Light artwork" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-body">
-                    <h1 class="card-title"></h1>
-                    <p class="card-text"></p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="farcry" class="card h-100">
-                <img style="width: 90%; margin-top: 2%;"
-                    src="Images/optimized/far-cry-logo-ffbf2e34.webp" alt=""
-                    class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="783" height="279">
-                <div class="card-body" style="margin-top: 40%;">
-                    <h1 class="card-title">Far Cry Series</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br>
-    <div class="row">
-        <div class="col-sm-3">
-            <div id="fallout" class="card h-100">
-                <img src="Images/optimized/fallout-logo-2bf495be.webp" alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="1600" height="726">
-                <div class="card-body text-white" style="margin-top: 40%;">
-                    <h1 class="card-title">Fallout Series</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="rdr2" class="card h-100">
-                <img style="padding: 5%;" src="Images/optimized/red-dead-redemption-logo-570dfd32.webp" alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="1366" height="496">
-                <div class="card-body text-white" style="margin-top: 30%;">
-                    <h1 class="card-title">Red Dead Redemption 2</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="nfs" class="card h-100">
-                <img style="padding: 5%;" src="Images/site-assets/nfs-logo.svg" alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy">
-                <div class="card-body" style="margin-top: 5%;">
-                    <h1 class="card-title">Need For Speed</h1>
-                    <p class="card-text">Single Player racing</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="fh4" class="card h-100">
-                <!-- <img style="width: 50%;padding: 5%;" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/470e7a4f017a5476afb7eeb3f8b96f9b.png" alt="" class="card-img-top mx-auto d-block" decoding="async" loading="lazy"> -->
-                <div style="margin-top: 45%;" class="card-body">
-                    <h1 class="card-title">Forza Horizon 4</h1>
-                    <p class="card-text">Single Player racing</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br>
-    <div class="row">
-        <div class="col-sm-3">
-            <div id="titanfall" class="card h-100">
-                <img src="Images/optimized/titanfall-2-d4bc3729.webp" alt="Titanfall 2 artwork" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-body text-white" style="margin-top: 90%;">
-                    <h1 class="card-title"></h1>
-                    <p class="card-text">Single/Multiplayer FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="bioshock" class="card h-100">
-                <img src="Images/optimized/bioshock-84b3b675.webp" alt="BioShock artwork" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-body text-white" style="margin-top: 80%;">
-                    <h1 class="card-title">Bioshock Series</h1>
-                    <p class="card-text">Single Player FPS
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="sniper" class="card h-100">
-                <img style="width: 90%;" src="Images/optimized/sniper-elite-logo-9267b4dd.webp" alt="" class="card-image-top mx-auto d-block" decoding="async" loading="lazy" width="1000" height="500">
-                <div class="card-body text-white" style="margin-top: 35%;">
-                    <h1 class="card-title">Sniper Elite Series</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="justcause" class="card h-100">
-                <img src="Images/optimized/just-cause-3-cf664c19.webp" alt="" class="card-image-top mx-auto d-block" decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-body text-white" style="margin-top: 40%;">
-                    <h1 class="card-title">Just Cause Series</h1>
-                    <p class="card-text">Single Player TPS</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br>
-    <div class="row">
-        <div class="col-sm-3">
-            <div id="wolfenstein" class="card h-100">
-                <img style="margin-top: 5%;" src="Images/optimized/wolfenstein-logo-9c047ffc.webp" alt="" class="card-image-top mx-auto d-block" decoding="async" loading="lazy" width="600" height="600">
-                <div class="card-body text-white" style="margin-top:30%">
-                    <h1 class="card-title">Wolfenstein Series</h1>
-                    <p class="card-text">Single Player FPS</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="dbz" class="card h-100">
-                <img style="width:50%; margin-top: 2%;" src="Images/optimized/dragon-ball-logo-3a471c41.webp" alt="" class="card-image-top mx-auto d-block" decoding="async" loading="lazy" width="2750" height="1849">
-                <div class="card-body text-white" style="margin-top: 40%;">
-                    <h1 class="card-title">Dragon Ball Series</h1>
-                    <p class="card-text">Anime Fighting Game</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="nsuns4" class="card h-100">
-                <img src="Images/optimized/naruto-storm-4-3d782f01.webp" alt="Naruto Shippuden: Ultimate Ninja Storm 4 artwork" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-body" style="margin-top: 90%;">
-                    <h1 class="card-title"></h1>
-                    <p class="card-text">Anime Fighting Game</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div id="mfs" class="card h-100">
-                <img src="Images/optimized/flight-simulator-857c9fbb.webp" alt="Microsoft Flight Simulator artwork" class="card-img-top mx-auto d-block" decoding="async" loading="lazy" width="460" height="215">
-                <div class="card-text" style="margin-top: 60%;">
-                    <h1 class="card-title"></h1>
-                    <p class="card-text">Simulation Game</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br><br>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Contact Me</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a target="_blank" class="nav-link" href="https://www.facebook.com/shaurya.mathur.71"><img
-                  src="Images/optimized/facebook-3f4c5b7f.webp" height="30px"
-                  width="40px" decoding="async" loading="lazy">Facebook</a>
-            </li>
-            <li class="nav-item">
-              <a target="_blank" class="nav-link" href="https://www.instagram.com/shaurya007/"><img
-                  src="Images/optimized/instagram-8c0e5a61.webp" height="30px" width="40px"
-                  style="padding-right: 10px;" decoding="async" loading="lazy">Instagram</a>
-            </li>
-            <li class="nav-item">
-              <a target="_blank" class="nav-link"
-                href="https://www.youtube.com/channel/UC4-tBPLvJviGeZUPGDt_etQ?view_as=subscriber"><img
-                  src="Images/youtube.png" height="30px" width="40px;"
-                  style="padding-right: 5px;" decoding="async" loading="lazy">Youtube</a>
-            </li>
-            <li class="nav-item">
-              <a target="_blank" class="nav-link" href="https://steamcommunity.com/id/shaurya609/"><img
-                  src="Images/optimized/steam-3310d45a.webp" height="30px" width="30px"
-                  style="padding-right: 5px;" decoding="async" loading="lazy">Steam</a>
-            </li>
-            <li class="nav-item">
-              <a target="_blank" class="nav-link" href="mailto:shaurya609@gmail.com"><img
-                  src="Images/site-assets/mail-icon.svg" height="30px" width="40px"
-                  style="padding-right: 5px;" decoding="async" loading="lazy">Mail</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+<body id="top">
+<a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="wordmark" href="index.html" aria-label="Shaurya Mathur home">Shaurya<span>.</span></a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="navigation" hidden>Menu <span aria-hidden="true">+</span></button><nav id="navigation" aria-label="Main navigation"><a href="index.html#about">About</a><a href="skills.html">Skills</a><a href="education.html">Education</a><a href="workex.html">Experience</a><a href="designing.html">Designs</a><a href="index.html#interests">Hobbies</a><a class="nav-contact" href="#contact">Let’s talk ↗</a></nav></header><main id="main"><section class="page-intro"><p class="eyebrow">Beyond work / Gaming</p>
+<h1>One more level.</h1>
+<p class="page-description">The games I grew up with, the worlds I explored, and the ones I return to.</p></section><nav class="section-tabs" aria-label="Hobby navigation"><a href="reading.html">Reading</a><a href="gaming.html" aria-current="page">Gaming</a><a href="music.html">Music</a></nav><section class="content-section"><div class="game-grid">
+<article class="game-card"><div class="game-art"><img src="Images/optimized/pubg-background-e6d66e99.webp" alt="Playerunknown's Battlegrounds" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Battle Royale</p>
+<h2>Playerunknown's Battlegrounds</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/doom-eternal-dec4ee6c.webp" alt="Doom Eternal" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Doom Eternal</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/days-gone-background-0a2fb62c.webp" alt="Days Gone" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Days Gone</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/call-of-duty-background-0e545081.webp" alt="Call Of Duty Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Call Of Duty Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/battlefield-background-decf5fe2.webp" alt="Battlefield Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Battlefield Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/delta-force-367c994f.webp" alt="Delta Force" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Delta Force</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/gta-background-64498be9.webp" alt="Grand Theft Auto" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Grand Theft Auto</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/metro-background-e475d033.webp" alt="Metro Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Metro Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/batman-background-d41cb169.webp" alt="Batman Arkham Knight" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player Adventure</p>
+<h2>Batman Arkham Knight</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/cyberpunk-background-3cc62c45.webp" alt="Cyberpunk 2077" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Cyberpunk 2077</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/dying-light-77b80e33.webp" alt="Dying Light" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow"></p>
+<h2>Dying Light</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/far-cry-background-e2c7f863.webp" alt="Far Cry Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Far Cry Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/fallout-4-50ecec92.webp" alt="Fallout Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Fallout Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/red-dead-redemption-background-0e3775fa.webp" alt="Red Dead Redemption 2" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Red Dead Redemption 2</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/need-for-speed-background-da9998cf.webp" alt="Need For Speed" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player racing</p>
+<h2>Need For Speed</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/forza-horizon-background-151e65ec.webp" alt="Forza Horizon 4" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Racing</p>
+<h2>Forza Horizon 4</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/titanfall-background-62162aa3.webp" alt="Titanfall 2" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single/Multiplayer FPS</p>
+<h2>Titanfall 2</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/bioshock-e62e91ee.webp" alt="Bioshock Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Bioshock Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/sniper-elite-background-6704f309.webp" alt="Sniper Elite Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Sniper Elite Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/just-cause-background-3bc0151f.webp" alt="Just Cause Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player TPS</p>
+<h2>Just Cause Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/wolfenstein-background-5a485bfb.webp" alt="Wolfenstein Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Single Player FPS</p>
+<h2>Wolfenstein Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/dragon-ball-background-71726c8b.webp" alt="Dragon Ball Series" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Anime Fighting Game</p>
+<h2>Dragon Ball Series</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/naruto-storm-background-825aa1f2.webp" alt="Naruto Shippuden: Ultimate Ninja Storm 4" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Anime Fighting Game</p>
+<h2>Naruto Shippuden: Ultimate Ninja Storm 4</h2>
+</div></article><article class="game-card"><div class="game-art"><img src="Images/optimized/flight-simulator-52d5ba60.webp" alt="Microsoft Flight Simulator" loading="lazy" decoding="async"></div>
+<div>
+<p class="eyebrow">Simulation Game Simulation Game</p>
+<h2>Microsoft Flight Simulator</h2>
+</div></article>
+</div></section></main><footer id="contact"><div class="footer-main">
+<div>
+<p class="eyebrow">Have something in mind?</p>
+<h2>Let’s start<br>a conversation.</h2>
+</div>
+<div class="footer-contact">
+<a class="button light" href="mailto:shaurya609@gmail.com">Say hello <span aria-hidden="true">↗</span></a><a class="email" href="mailto:shaurya609@gmail.com">shaurya609@gmail.com</a><div class="socials">
+<a href="https://github.com/Shaurya609">GitHub ↗</a><a href="https://www.instagram.com/shaurya007/">Instagram ↗</a><a href="https://www.youtube.com/channel/UC4-tBPLvJviGeZUPGDt_etQ">YouTube ↗</a>
+<a href="https://www.facebook.com/shaurya.mathur.71">Facebook ↗</a><a href="https://steamcommunity.com/id/shaurya609/">Steam ↗</a>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<span>© Shaurya Mathur</span><span>Design direction: <a href="https://styleshout.com/free-templates/hudson/">Hudson by StyleShout</a></span><a href="legacy/index.html" target="_top">Original portfolio</a><a href="compare/index.html" target="_top">Before &amp; after</a><a href="#top">Back to top ↑</a>
+</div></footer>
 </body>
-
 </html>

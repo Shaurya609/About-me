@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore Shaurya Mathur's original portfolio alongside its new design.">
+  <title>Before &amp; after | Shaurya Mathur</title>
+  <link rel="icon" href="../Images/optimized/channel-icon-2528a059.png" type="image/png">
+  <link rel="stylesheet" href="compare.css">
+  <script src="compare.js" defer></script>
+</head>
+<body>
+  <header>
+    <a class="back" href="../index.html">← Back to portfolio</a>
+    <p class="eyebrow">A portfolio, evolving</p>
+    <h1>Same story. A new chapter.</h1>
+    <p class="intro">From my first experiments with HTML, CSS and JavaScript to the portfolio I’m building today.</p>
+  </header>
+  <main>
+    <div class="toolbar">
+      <div class="picker" hidden><label for="section">Explore a section</label>
+        <select id="section">
+          <option value="index.html">Home</option><option value="education.html">Education</option>
+          <option value="skills.html">Skills</option><option value="workex.html">Experience</option>
+          <option value="designing.html">Designs</option><option value="reading.html">Reading</option>
+          <option value="gaming.html">Gaming</option><option value="music.html">Music</option>
+        </select>
+      </div>
+      <p>Scroll each site independently. Open either version for the full experience.</p>
+      <div class="switch" hidden role="group" aria-label="Choose a version">
+        <button type="button" data-view="before" aria-pressed="true" aria-controls="before">Before</button>
+        <button type="button" data-view="after" aria-pressed="false" aria-controls="after">After</button>
+      </div>
+    </div>
+    <div class="versions">
+      <section class="version" id="before" aria-labelledby="before-title">
+        <div class="version-heading"><div><p class="eyebrow">Before</p><h2 id="before-title">The original</h2><p>Preserved before the redesign</p></div><a id="legacy-link" href="../legacy/index.html" target="_blank" rel="noopener">Open legacy ↗</a></div>
+        <iframe id="legacy-frame" title="Original portfolio - Home" src="../legacy/index.html" loading="lazy"></iframe>
+      </section>
+      <section class="version" id="after" aria-labelledby="after-title">
+        <div class="version-heading"><div><p class="eyebrow">After</p><h2 id="after-title">The new direction</h2><p>Current design, still evolving</p></div><a id="current-link" href="../index.html" target="_blank" rel="noopener">Open current ↗</a></div>
+        <iframe id="current-frame" title="Current portfolio - Home" src="../index.html" loading="lazy"></iframe>
+      </section>
+    </div>
+    <p class="note">The original includes the image repairs and loading improvements made before the redesign. Its original design is preserved, with approved career updates and navigation back to the current site. The current version reflects our latest design work. Use the section menu to bring both views back to matching pages.</p>
+    <noscript><p>The previews work without JavaScript. Open either site above to explore its other pages.</p></noscript>
+  </main>
+  <footer><span>Shaurya Mathur</span><a href="../legacy/README.md">About the preserved version</a></footer>
+</body>
+</html>

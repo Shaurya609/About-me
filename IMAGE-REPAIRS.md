@@ -1,4 +1,4 @@
-# Image repairs — 24 September 2026
+# Image repairs - 24 September 2026
 
 Repaired image loading across all eight pages while retaining the existing layout and content.
 
